@@ -745,7 +745,6 @@ family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
 family.dot.dns.yandex.net
-family.freedns.controld.com
 family.mydns.network
 family.puredns.org
 familyshield.opendns.com
@@ -762,7 +761,6 @@ fra01.dnscry.pt
 fra1.eyecay.xyz
 free.bravedns.com
 free.shecan.ir
-freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
 fuchur.pentament.de
@@ -933,10 +931,6 @@ ore-dns.bitdefender.net
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-p0.freedns.controld.com
-p1.freedns.controld.com
-p2.freedns.controld.com
-p3.freedns.controld.com
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
@@ -1079,7 +1073,6 @@ uk-lon.doh.sb
 uk.teradns.org
 uk01.dns4me.net
 uncensored.any.dns.nixnet.xyz
-uncensored.freedns.controld.com
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
 uncensored.ny1.dns.nixnet.xyz
