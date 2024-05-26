@@ -954,7 +954,6 @@
 74.211.108.27       # dns.milkpie.one
 75.11.62.241        # doh.qis.io
 75.75.77.44         # doh.xfinity.com
-76.76.2.11          # freedns.controld.com
 76.76.21.21         # arashi.eu.org
 76.76.21.22         # dns.vishalk.com
 76.76.21.241        # dns.vishalk.com
