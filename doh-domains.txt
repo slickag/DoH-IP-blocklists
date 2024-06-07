@@ -74,7 +74,6 @@ adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
-ag.brianlee.fun
 ag.ff0x.ca
 ag.hostme.co.il
 ag.marschi.de
@@ -179,7 +178,6 @@ dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
-dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
@@ -722,6 +720,7 @@ dotdns.cryptroute.com
 doth.huque.com
 drs.rustsword.com
 dtw01.dnscry.pt
+dub01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
@@ -845,6 +844,7 @@ lax02.dnscry.pt
 lelux.fi
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 llk01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net

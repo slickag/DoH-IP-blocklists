@@ -22,6 +22,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguardh.ga
+ag.brianlee.fun
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -46,6 +47,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
+dns-public.ibakerserver.pt
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
@@ -135,7 +137,6 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.pl.ahadns.net
 draco.plan9-ns2.com
-dub01.dnscry.pt
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -159,7 +160,6 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kswro.web.id
-lion.yazilimatolye.com
 neatdns.ustclug.org
 nl.rslvr.eu
 ns1-doh.iriseden.fr
