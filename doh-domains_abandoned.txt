@@ -171,6 +171,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
@@ -178,10 +179,12 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
+snoke.meganerd.nl
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
+tuandns.duckdns.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
