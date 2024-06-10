@@ -5,7 +5,6 @@
 5g.o0o.re
 8888.google
 a.zpn.me
-aattwwss.duckdns.org
 abe01.dnscry.pt
 abel.waringer-atg.de
 ad.huyct.net
@@ -928,7 +927,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1061,7 +1059,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
