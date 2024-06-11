@@ -54,6 +54,7 @@ dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
 dns.anonymous.pw
+dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
 dns.blaze-sk.ru
