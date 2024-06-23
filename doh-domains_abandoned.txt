@@ -28,6 +28,7 @@ ag.brianlee.fun
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+aqua.is.my.waifu.cz
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
@@ -164,7 +165,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
