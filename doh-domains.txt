@@ -350,7 +350,6 @@ dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.levonet.sk

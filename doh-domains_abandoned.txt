@@ -41,7 +41,6 @@ bld.sys-adm.in
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
-cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
@@ -85,6 +84,7 @@ dns.haoxuan.xyz
 dns.invisv.com
 dns.itdept.pro
 dns.jucker.engineering
+dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
 dns.mipauns.com
