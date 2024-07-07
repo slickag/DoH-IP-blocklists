@@ -83,6 +83,7 @@ dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
+dns.infosec.xyz
 dns.invisv.com
 dns.itdept.pro
 dns.jucker.engineering
@@ -189,7 +190,6 @@ odoh-target.alekberg.net
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
-resolver.r0cket.net
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
