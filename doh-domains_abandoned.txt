@@ -53,6 +53,7 @@ dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-public.ibakerserver.pt
+dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
@@ -162,7 +163,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
