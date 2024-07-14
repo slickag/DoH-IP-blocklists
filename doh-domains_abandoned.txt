@@ -91,6 +91,7 @@ dns.jucker.engineering
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
+dns.milkpie.one
 dns.mipauns.com
 dns.ndo.dev
 dns.nixnet.xyz
