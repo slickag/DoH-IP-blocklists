@@ -152,6 +152,7 @@ dot.in.ahadns.net
 dot.it.ahadns.net
 dot.no.ahadns.net
 dot.ny.ahadns.net
+dot.occ.top
 dot.pl.ahadns.net
 draco.plan9-ns2.com
 drs.rustsword.com
