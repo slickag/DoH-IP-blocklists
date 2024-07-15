@@ -95,7 +95,6 @@ dns.milkpie.one
 dns.mipauns.com
 dns.ndo.dev
 dns.nixnet.xyz
-dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
 dns.post-factum.tk
