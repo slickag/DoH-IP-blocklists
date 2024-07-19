@@ -110,6 +110,7 @@ dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.ipv6.dnscrypt.ca
 dns1.nielsdb.be
 dns2.dnscrypt.ca
