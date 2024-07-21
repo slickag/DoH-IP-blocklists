@@ -66,6 +66,7 @@ dns.blaze-sk.ru
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
+dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d365.in
@@ -165,7 +166,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
@@ -182,6 +182,7 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kswro.web.id
+la.ray0512.win
 lion.yazilimatolye.com
 neatdns.ustclug.org
 nebula.tru.io
