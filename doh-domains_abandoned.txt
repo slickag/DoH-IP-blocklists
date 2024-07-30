@@ -26,6 +26,7 @@ adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguardh.ga
 ag.brianlee.fun
+ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
@@ -121,7 +122,6 @@ dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
-doh-ca.naftalie.net
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
