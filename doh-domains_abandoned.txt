@@ -25,7 +25,6 @@ adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguardh.ga
-ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -43,7 +42,6 @@ bld.sys-adm.in
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
-cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
@@ -74,6 +72,7 @@ dns.cybershell.xyz
 dns.d365.in
 dns.dns-over-https.com
 dns.dnsoverhttps.net
+dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.edgy.network
@@ -185,7 +184,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -201,7 +199,6 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -216,9 +213,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
