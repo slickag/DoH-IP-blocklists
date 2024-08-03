@@ -43,16 +43,15 @@ bld.sys-adm.in
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
@@ -116,6 +115,7 @@ dns.wibenson.cloud
 dns.wugui.zone
 dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
+dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
@@ -185,6 +185,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -199,7 +200,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 please.dontsteal.my.id
 punono.duckdns.org
 quic.lol
