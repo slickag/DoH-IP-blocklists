@@ -44,7 +44,6 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -110,7 +109,6 @@ dns.repressoh.it
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
-dns.warma.me
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
