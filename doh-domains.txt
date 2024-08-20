@@ -152,6 +152,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -353,7 +354,6 @@ dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
-dns.melalandia.tk
 dns.mestdag.fr
 dns.mihanentalpo.me
 dns.mikeliu.org
