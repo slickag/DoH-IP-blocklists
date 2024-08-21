@@ -317,7 +317,6 @@ dns.indust.me
 dns.indybanipal.com
 dns.interhub.cc
 dns.internal.hosmatic.com
-dns.ipv6dns.com
 dns.islandnet.com
 dns.janl.eu
 dns.jinwoo.dev
