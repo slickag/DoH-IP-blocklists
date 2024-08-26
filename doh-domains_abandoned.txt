@@ -72,7 +72,6 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d365.in
-dns.decloudus.com
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -141,7 +140,6 @@ doh.in.ahadns.net
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linuxsec.org
-doh.morizt.id
 doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
