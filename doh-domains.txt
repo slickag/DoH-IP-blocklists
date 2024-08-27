@@ -1023,7 +1023,6 @@ tor.vasi.li
 tpa01.dnscry.pt
 tpe01.dnscry.pt
 trf01.dnscry.pt
-truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
