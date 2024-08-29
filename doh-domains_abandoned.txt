@@ -208,6 +208,7 @@ please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver.unstoppable.io
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
