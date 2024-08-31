@@ -196,6 +196,7 @@ nanopi.cybergroove.net
 neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
+ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
