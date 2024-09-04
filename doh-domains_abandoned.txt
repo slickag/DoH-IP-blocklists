@@ -111,6 +111,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.sarak.as
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -127,10 +128,6 @@ dns2.linzefeng.top
 dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
