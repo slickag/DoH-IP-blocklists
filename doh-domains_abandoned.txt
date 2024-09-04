@@ -6,6 +6,7 @@ a.passcloud.xyz
 a.safe.ns.dnslify.com
 aattwwss.duckdns.org
 ad-dns.lista.my.id
+adblock.borjalopez.eu
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -98,6 +99,7 @@ dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -147,7 +149,6 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.southam.family
@@ -176,7 +177,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com

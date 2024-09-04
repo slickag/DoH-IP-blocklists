@@ -15,7 +15,6 @@ ada.openbld.net
 adb-home.xaoimoon.fr
 adb.aadityakushwaha.com
 adblock.any.dns.nixnet.xyz
-adblock.borjalopez.eu
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
@@ -349,7 +348,6 @@ dns.lista.my.id
 dns.lobbygod.com
 dns.lvolland.fr
 dns.maolaohei.xyz
-dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
@@ -625,6 +623,7 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
+doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -741,6 +740,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
