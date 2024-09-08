@@ -26,6 +26,7 @@ adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguardh.ga
+ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -193,6 +194,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
