@@ -45,6 +45,7 @@ buc-m2.illmods.com
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -138,6 +139,7 @@ doh.chi.ahadns.net
 doh.dnslify.com
 doh.doh.my.id
 doh.es.ahadns.net
+doh.funil.de
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
