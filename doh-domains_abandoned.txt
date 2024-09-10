@@ -117,6 +117,7 @@ dns.repressoh.it
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
+dns.tryk.app
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
