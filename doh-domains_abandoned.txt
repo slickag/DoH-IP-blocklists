@@ -195,6 +195,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -228,7 +229,6 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
