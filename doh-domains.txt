@@ -284,6 +284,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -475,7 +476,6 @@ dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
-dns.youni.win
 dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
