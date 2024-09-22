@@ -112,6 +112,7 @@ dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
 dns.tryk.app
+dns.wakgood.net
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
