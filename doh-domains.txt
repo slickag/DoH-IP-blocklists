@@ -394,6 +394,7 @@ dns.pccoach.nl
 dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
+dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.privado.ovh
