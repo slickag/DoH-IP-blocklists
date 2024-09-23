@@ -102,7 +102,6 @@ dns.moog.sh
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
-dns.opnsource.com.au
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -177,6 +176,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
