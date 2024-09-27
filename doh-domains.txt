@@ -30,7 +30,6 @@ addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
-adg.rokh.biz
 adg.rueiliu.space
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
