@@ -768,6 +768,7 @@ ipoac.nl
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
+jit.ddns.net
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
@@ -780,7 +781,6 @@ jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
-kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
