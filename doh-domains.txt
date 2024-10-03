@@ -647,7 +647,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh1.blahdns.com
@@ -769,6 +768,7 @@ ipoac.nl
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
+jit.ddns.net
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb

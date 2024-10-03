@@ -158,6 +158,7 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
 dos.bytetel.net
@@ -194,7 +195,6 @@ iris.woozeno.eu
 irre.li
 jambi.undo.it
 jcdns.fun
-jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
