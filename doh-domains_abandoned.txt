@@ -179,6 +179,7 @@ drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
+everovpn.co
 example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com

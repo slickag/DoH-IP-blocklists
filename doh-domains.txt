@@ -693,7 +693,6 @@ ee-tll.doh.sb
 emby.rasp.tv
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
-everovpn.co
 extended.dns.mullvad.net
 family-filter-dns.cleanbrowsing.org
 family.5ososea.com
