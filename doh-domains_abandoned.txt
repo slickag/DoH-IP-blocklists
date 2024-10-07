@@ -52,6 +52,7 @@ dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-free.link
 dns-nyc.aaflalo.me
+dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
@@ -157,7 +158,6 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
 dos.bytetel.net
