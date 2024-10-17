@@ -93,6 +93,7 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
+dns.kugoapps.com
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
