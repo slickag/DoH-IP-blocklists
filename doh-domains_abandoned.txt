@@ -9,6 +9,7 @@ adg.rokh.biz
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
+adguard-ironhide.ultima-thule.ru
 adguard-server.cf
 adguard.aa4.co.uk
 adguard.ambiya.net
@@ -101,6 +102,7 @@ dns.lsho.top
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
+dns.mikrotikrumahan.my.id
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh

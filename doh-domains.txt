@@ -32,7 +32,6 @@ adfreedns.top
 adg.jnorton.us
 adg.rueiliu.space
 adguard-dns.com
-adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard.abd.ong
 adguard.avdkishore.dev
@@ -353,7 +352,6 @@ dns.meeo.win
 dns.mestdag.fr
 dns.mihanentalpo.me
 dns.mikeliu.org
-dns.mikrotikrumahan.my.id
 dns.mo0on15.com
 dns.molinero.dev
 dns.moonssif.com
