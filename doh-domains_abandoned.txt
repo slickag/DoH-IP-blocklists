@@ -90,6 +90,7 @@ dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
+dns.ian.rocks
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
