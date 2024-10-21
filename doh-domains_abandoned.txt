@@ -205,6 +205,7 @@ jcdns.fun
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 la.ray0512.win
