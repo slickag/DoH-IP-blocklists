@@ -132,6 +132,7 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
+dnscache.e-utp.net
 dnsenc.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
@@ -205,7 +206,6 @@ jcdns.fun
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 la.ray0512.win
