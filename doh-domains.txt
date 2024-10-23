@@ -876,7 +876,6 @@ ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
 osefcorp.duckdns.org
-outdoorchair.us
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za

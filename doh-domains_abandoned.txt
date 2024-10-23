@@ -224,6 +224,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+outdoorchair.us
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
