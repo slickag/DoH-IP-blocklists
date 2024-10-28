@@ -282,6 +282,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -577,6 +578,7 @@ doh.eastus.pi-dns.com
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
+doh.funil.de
 doh.funtopia.tv
 doh.futa.gg
 doh.hottis.de
