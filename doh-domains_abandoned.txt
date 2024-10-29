@@ -116,6 +116,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rootlab.top
+dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -194,7 +195,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -228,7 +228,6 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
-please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
