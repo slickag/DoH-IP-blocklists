@@ -213,6 +213,7 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
+lon-dns.bitdefender.net
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -245,9 +246,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
