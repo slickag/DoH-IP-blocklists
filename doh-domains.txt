@@ -211,6 +211,7 @@ dns.azsopro.net
 dns.b33.space
 dns.b612.me
 dns.baishiyuan.cn
+dns.bebasid.com
 dns.belnet.be
 dns.beta.gandi.net
 dns.bitdefender.net
