@@ -375,6 +375,7 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
+dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
 dns.paesa.es
@@ -637,7 +638,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh1.blahdns.com
@@ -767,7 +767,6 @@ jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
-keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 kilabit.info
