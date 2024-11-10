@@ -113,6 +113,7 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
+dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -213,7 +214,6 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
-keithchung.hopto.org
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
