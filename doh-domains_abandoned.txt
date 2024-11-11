@@ -168,7 +168,6 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
 dos.bytetel.net
@@ -198,7 +197,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -237,7 +235,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
