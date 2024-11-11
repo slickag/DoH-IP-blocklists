@@ -842,7 +842,6 @@ ns3.opennameserver.org
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
-nue2.moderateinfra.net
 nvi-dns.bitdefender.net
 ny.teradns.org
 ny1.nixnet.xyz
