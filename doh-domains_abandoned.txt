@@ -76,6 +76,7 @@ dns.cloudseriousshit.com
 dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
+dns.dekedin.me
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -235,7 +236,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
-query.hdns.io
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -254,6 +254,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org

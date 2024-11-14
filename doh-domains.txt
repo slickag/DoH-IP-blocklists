@@ -902,6 +902,7 @@ punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
+query.hdns.io
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
@@ -989,7 +990,6 @@ tor.vasi.li
 tpa01.dnscry.pt
 tpe01.dnscry.pt
 trf01.dnscry.pt
-truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
