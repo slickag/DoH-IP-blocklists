@@ -70,13 +70,13 @@ dns.arapurayil.com
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
+dns.bw.i81.ru
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
 dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
-dns.dekedin.me
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -254,7 +254,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
