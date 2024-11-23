@@ -239,7 +239,6 @@ please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
-resolver.r0cket.net
 resolver.unstoppable.io
 sby-doh.limotelu.org
 sdns.233py.com
@@ -262,6 +261,7 @@ uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
+us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 wdns.233py.com

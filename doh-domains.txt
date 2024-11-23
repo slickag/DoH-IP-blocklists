@@ -1009,7 +1009,6 @@ unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
 urology.wiki
-us-ny-alula.heliumcloud.cc
 us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
