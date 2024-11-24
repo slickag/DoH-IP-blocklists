@@ -584,7 +584,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
@@ -1009,6 +1008,7 @@ unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
 urology.wiki
+us-ny-alula.heliumcloud.cc
 us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
