@@ -107,7 +107,6 @@ dns.lsho.top
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
 dns.ndo.dev
