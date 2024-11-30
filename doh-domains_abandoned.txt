@@ -116,6 +116,7 @@ dns.pumplex.com
 dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
+dns.tesem.dog
 dns.truong.fi
 dns.tryk.app
 dns.wakgood.net
@@ -150,6 +151,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.morizt.id
