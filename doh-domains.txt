@@ -429,7 +429,6 @@ dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
 dns.spil.co.id
-dns.spirio.fr
 dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net

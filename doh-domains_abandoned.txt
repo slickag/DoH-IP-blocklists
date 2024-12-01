@@ -114,6 +114,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.siry.de
+dns.spirio.fr
 dns.stvsk.ml
 dns.surfshark.com
 dns.tesem.dog
