@@ -16,7 +16,6 @@ adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
-adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.lista.my.id
