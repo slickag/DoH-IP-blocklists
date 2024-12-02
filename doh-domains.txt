@@ -81,7 +81,6 @@ alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
-antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
@@ -213,7 +212,6 @@ dns.azsopro.net
 dns.b33.space
 dns.b612.me
 dns.baishiyuan.cn
-dns.bebasid.com
 dns.belnet.be
 dns.beta.gandi.net
 dns.bitdefender.net
@@ -750,7 +748,6 @@ ikarosalpha.xyz
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inpssh.online
-internetsehat.bebasid.com
 iow-dns.bitdefender.net
 ipoac.nl
 ivnkn.xyz
