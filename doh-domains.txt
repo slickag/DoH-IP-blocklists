@@ -151,7 +151,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -283,7 +282,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -913,6 +911,7 @@ resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
+resolver.unstoppable.io
 resolver1-fs.opendns.com
 resolver1.absolight.net
 resolver1.ipv6-sandbox.opendns.com
