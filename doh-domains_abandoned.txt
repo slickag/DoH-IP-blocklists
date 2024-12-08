@@ -14,6 +14,7 @@ adguard.aa4.co.uk
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.gbrossi.com.br
@@ -110,12 +111,10 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.siry.de
-dns.stvsk.ml
 dns.surfshark.com
 dns.tesem.dog
 dns.truong.fi
@@ -157,6 +156,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.morizt.id
