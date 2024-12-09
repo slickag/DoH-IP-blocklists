@@ -40,6 +40,7 @@ adguard.bonis.de
 adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.haneulo.com
