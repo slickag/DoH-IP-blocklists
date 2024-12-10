@@ -109,6 +109,7 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
+dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -258,7 +259,6 @@ uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
-us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 wdns.233py.com
