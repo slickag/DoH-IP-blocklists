@@ -442,6 +442,7 @@ dns.syaifullah.com
 dns.t53.de
 dns.technostriker.com
 dns.telekom.de
+dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.theres.one
@@ -1024,7 +1025,6 @@ vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vm.mytm.cc
-vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
