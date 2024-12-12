@@ -41,7 +41,6 @@ berd.moe
 bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
-catdns.org
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
