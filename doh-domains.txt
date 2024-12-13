@@ -298,7 +298,6 @@ dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.hugo0.moe
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
