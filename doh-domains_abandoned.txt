@@ -156,6 +156,7 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.morizt.id
@@ -242,6 +243,7 @@ resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
+sdns22.gkonuralp.com
 secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org
