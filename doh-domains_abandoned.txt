@@ -36,6 +36,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
+b-ii.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
@@ -197,7 +198,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
