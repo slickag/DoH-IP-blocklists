@@ -721,6 +721,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -865,6 +866,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
