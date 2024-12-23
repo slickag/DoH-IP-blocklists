@@ -58,6 +58,7 @@ dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
+dns.0x55.net
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
