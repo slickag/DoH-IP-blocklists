@@ -386,7 +386,6 @@ dns.pccoach.nl
 dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
-dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.privado.ovh
@@ -583,6 +582,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
