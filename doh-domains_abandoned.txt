@@ -159,7 +159,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.morizt.id
@@ -205,6 +204,7 @@ groupy.ga
 gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -261,6 +261,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 uf-dns.lista.my.id
 uk.adhole.org
