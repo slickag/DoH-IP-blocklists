@@ -153,6 +153,7 @@ doh.233py.com
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.bt.com
 doh.chi.ahadns.net
 doh.doh.my.id
 doh.es.ahadns.net
@@ -171,6 +172,7 @@ doh.ny.ahadns.net
 doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
+doh.powerdns.org
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
