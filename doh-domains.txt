@@ -140,6 +140,7 @@ common.dot.dns.yandex.net
 commons.host
 comss.one
 comss.ru
+console.carestyle.org
 crypto.sx
 cube.neubsi.at
 cubedns.com
