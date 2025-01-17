@@ -150,7 +150,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -311,7 +310,6 @@ dns.indybanipal.com
 dns.interhub.cc
 dns.internal.hosmatic.com
 dns.islandnet.com
-dns.janl.eu
 dns.jinwoo.dev
 dns.joaofidelix.com.br
 dns.joey01245.nl

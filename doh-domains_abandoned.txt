@@ -47,6 +47,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -99,6 +100,7 @@ dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
+dns.janl.eu
 dns.jucker.engineering
 dns.kugoapps.com
 dns.labnekotest.site
@@ -109,7 +111,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.nas-server.ru
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -202,7 +203,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
