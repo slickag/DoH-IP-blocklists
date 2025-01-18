@@ -202,6 +202,7 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
@@ -255,6 +256,7 @@ sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
 snoke.meganerd.nl
+spacedns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com

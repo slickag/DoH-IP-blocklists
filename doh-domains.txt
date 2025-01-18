@@ -716,7 +716,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -957,7 +956,6 @@ sitdns.com
 sky.rethinkdns.com
 slc01.dnscry.pt
 sof01.dnscry.pt
-spacedns.org
 sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
