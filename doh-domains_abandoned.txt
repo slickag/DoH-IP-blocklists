@@ -118,7 +118,6 @@ dns.oszx.co
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
-dns.pumplex.com
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
