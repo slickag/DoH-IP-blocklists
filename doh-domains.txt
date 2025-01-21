@@ -70,7 +70,6 @@ adguardhome.atakorah.com
 adl.adfilter.net
 adult-filter-dns.cleanbrowsing.org
 ag.ff0x.ca
-ag.marschi.de
 agh-yz.russel053.com
 agh.fltn.us
 agh.printk.info
@@ -543,7 +542,6 @@ doh.azoris.ovh
 doh.beauty
 doh.boje8.me
 doh.bortzmeyer.fr
-doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
