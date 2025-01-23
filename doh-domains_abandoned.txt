@@ -35,6 +35,7 @@ anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
+awan.ftp.sh
 axaxa.fun
 b-ii.com
 bcandrade.ml
@@ -118,7 +119,6 @@ dns.oszx.co
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
-dns.rootlab.top
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -222,7 +222,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -263,7 +262,6 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
