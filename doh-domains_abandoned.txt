@@ -163,7 +163,6 @@ doh.in.ahadns.net
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linuxsec.org
-doh.lv
 doh.morizt.id
 doh.nala.ru
 doh.neowutran.ovh

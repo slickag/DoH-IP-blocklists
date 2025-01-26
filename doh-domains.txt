@@ -386,7 +386,6 @@ dns.pragmasec.nl
 dns.privado.ovh
 dns.pub
 dns.pumpkinvrar.com
-dns.pumplex.com
 dns.quad9.net
 dns.rafn.is
 dns.rayanbab.com
