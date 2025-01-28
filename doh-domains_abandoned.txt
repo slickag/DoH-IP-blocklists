@@ -227,6 +227,7 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
+local.sufly.top
 lon-dns.bitdefender.net
 nanopi.cybergroove.net
 ndns.233py.com
@@ -238,6 +239,7 @@ ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
+ns2.recursive.dnsbycomodo.com
 nue2.moderateinfra.net
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
