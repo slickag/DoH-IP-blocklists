@@ -187,7 +187,6 @@ dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
-dns.aerro.in
 dns.albony.xyz
 dns.alidns.com
 dns.alloxr.info
