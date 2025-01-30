@@ -49,6 +49,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -207,7 +208,6 @@ groupy.ga
 gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -225,7 +225,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -248,7 +247,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
