@@ -222,6 +222,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -278,6 +279,7 @@ vm.mytm.cc
 vpn.technicule.info
 vtcuong.site
 wdns.233py.com
+www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 xorbiadns.com
