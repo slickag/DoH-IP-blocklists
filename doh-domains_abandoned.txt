@@ -252,6 +252,7 @@ please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver.r0cket.net
 sby-doh.limotelu.org
 sdns.233py.com
 sdns22.gkonuralp.com
