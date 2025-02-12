@@ -380,7 +380,6 @@ dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.porteii.com
 dns.pragmasec.nl
-dns.privado.ovh
 dns.pub
 dns.pumpkinvrar.com
 dns.quad9.net

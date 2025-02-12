@@ -121,6 +121,7 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.pnh.my.id
 dns.post-factum.tk
+dns.privado.ovh
 dns.privilab.net
 dns.pumplex.com
 dns.siry.de
@@ -209,7 +210,6 @@ groupy.ga
 gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
