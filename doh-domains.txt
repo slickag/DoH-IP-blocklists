@@ -70,6 +70,7 @@ adl.adfilter.net
 adult-filter-dns.cleanbrowsing.org
 ag.ff0x.ca
 ag.marschi.de
+ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.fltn.us
 agh.printk.info
@@ -721,7 +722,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
