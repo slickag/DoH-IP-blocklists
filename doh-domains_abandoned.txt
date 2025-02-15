@@ -276,6 +276,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
+virga.pp.ua
 vm.mytm.cc
 vpn.technicule.info
 wdns.233py.com
