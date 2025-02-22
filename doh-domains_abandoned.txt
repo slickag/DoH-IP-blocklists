@@ -108,6 +108,7 @@ dns.jucker.engineering
 dns.kugoapps.com
 dns.labnekotest.site
 dns.lightmaster.pw
+dns.lvolland.fr
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
@@ -268,8 +269,10 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
+uk.teradns.org
 uradoori.org
 us-central.adhole.org
 us-chi-doh.sb

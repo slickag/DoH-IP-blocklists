@@ -336,7 +336,6 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
 dns.lsho.top
-dns.lvolland.fr
 dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
@@ -980,12 +979,10 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
-tx.teradns.org
 tyo01.dnscry.pt
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.teradns.org
 uk01.dns4me.net
 uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
