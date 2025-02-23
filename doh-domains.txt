@@ -148,6 +148,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -1005,7 +1006,6 @@ vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vpsus3.pzhg.me
-vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt

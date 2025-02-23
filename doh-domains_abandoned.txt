@@ -49,7 +49,6 @@ chewbacca.meganerd.nl
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -282,6 +281,7 @@ us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
 vpn.technicule.info
+vtcuong.site
 wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
