@@ -752,7 +752,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 keithchung.hopto.org
 kids.5ososea.com
@@ -977,7 +976,6 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tyo01.dnscry.pt
 typaza.com
