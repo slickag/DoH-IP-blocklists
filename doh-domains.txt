@@ -147,7 +147,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -437,6 +436,7 @@ dns.therifleman.name
 dns.tls-data.de
 dns.tracker.ink
 dns.trust404.win
+dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
@@ -701,6 +701,7 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -939,7 +940,6 @@ sg2.ooroot.com
 shalenkov.dev
 shield.afixer.app
 shield1.eranext.net
-sin01.dnscry.pt
 sink.nolo.ltd
 sitdns.com
 sky.rethinkdns.com

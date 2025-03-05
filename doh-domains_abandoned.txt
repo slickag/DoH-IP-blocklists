@@ -50,6 +50,7 @@ chewbacca.meganerd.nl
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -129,7 +130,6 @@ dns.pumplex.com
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
-dns.tryk.app
 dns.wakgood.net
 dns.wevpn.com
 dns.wibenson.cloud
@@ -208,7 +208,6 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
-gclouddns.com
 groupy.ga
 gustamadh.dynv6.net
 himedns.com
@@ -265,6 +264,7 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
+sin01.dnscry.pt
 snoke.meganerd.nl
 surt.ml
 t2c.240130034.xyz
