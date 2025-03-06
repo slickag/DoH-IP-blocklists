@@ -526,6 +526,7 @@ doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
+doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
@@ -868,7 +869,6 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 pluton.plan9-dns.com
 pooblet.co.za
-pope.cnblw.me
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca

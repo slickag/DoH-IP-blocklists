@@ -157,7 +157,6 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
 doh.abmb.win
-doh.apad.pro
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
@@ -250,12 +249,13 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
+pope.cnblw.me
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
-resolver1.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 sdns.233py.com
 sdns22.gkonuralp.com
@@ -272,6 +272,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
