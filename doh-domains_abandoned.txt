@@ -50,7 +50,6 @@ chewbacca.meganerd.nl
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -158,6 +157,7 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
 doh.abmb.win
+doh.apad.pro
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
@@ -255,6 +255,7 @@ please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver1.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 sdns.233py.com
 sdns22.gkonuralp.com
