@@ -236,6 +236,7 @@ nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
+nenam.eu
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
