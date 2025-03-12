@@ -129,6 +129,7 @@ dns.siry.de
 dns.surfshark.com
 dns.theres.one
 dns.truong.fi
+dns.tryk.app
 dns.wakgood.net
 dns.wevpn.com
 dns.wibenson.cloud
@@ -228,6 +229,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
