@@ -127,6 +127,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.siry.de
 dns.surfshark.com
+dns.theres.one
 dns.truong.fi
 dns.wakgood.net
 dns.wevpn.com
@@ -207,6 +208,7 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com

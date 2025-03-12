@@ -433,7 +433,6 @@ dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
-dns.theres.one
 dns.therifleman.name
 dns.tls-data.de
 dns.tracker.ink
@@ -710,7 +709,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
