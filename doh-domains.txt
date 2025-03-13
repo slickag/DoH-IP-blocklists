@@ -254,7 +254,6 @@ dns.dnswarden.com
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
-dns.edison42.dev
 dns.elemental.software
 dns.ellichua.com
 dns.emiliyan.com
