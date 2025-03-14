@@ -46,7 +46,6 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.jfchenier.ca
 adguard.kiboko.it
-adguard.kss.ovh
 adguard.lege.despagne.net
 adguard.marto.si
 adguard.meddy94.de
