@@ -102,6 +102,7 @@ dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.hugo0.moe
 dns.ian.rocks
+dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
@@ -121,6 +122,7 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
+dns.pesaventofilippo.com
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privado.ovh
