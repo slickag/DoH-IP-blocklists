@@ -97,6 +97,7 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
+dns.futuredns.me
 dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -213,11 +214,11 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
-galileo.math.unipd.it
 groupy.ga
 gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -233,8 +234,10 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -257,9 +260,11 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -279,6 +284,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
