@@ -165,6 +165,7 @@ doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
+doh.cnetwork.cloud
 doh.doh.my.id
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
@@ -212,6 +213,7 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
+galileo.math.unipd.it
 groupy.ga
 gustamadh.dynv6.net
 himedns.com

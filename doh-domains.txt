@@ -536,7 +536,6 @@ doh.captnemo.in
 doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.cox.net
 doh.crypto.sx
 doh.datacore.ch
