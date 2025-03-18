@@ -116,6 +116,7 @@ dns.kugoapps.com
 dns.lightmaster.pw
 dns.lvolland.fr
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
@@ -158,6 +159,10 @@ dns4.imkvq.com
 dns8.org
 dnsenc.com
 dnses.alekberg.net
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
