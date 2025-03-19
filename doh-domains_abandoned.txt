@@ -94,6 +94,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.emeraldonion.org
+dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
