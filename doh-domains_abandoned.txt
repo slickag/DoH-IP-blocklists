@@ -56,7 +56,6 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
@@ -172,6 +171,7 @@ doh.233py.com
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.doh.my.id
@@ -267,7 +267,6 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
