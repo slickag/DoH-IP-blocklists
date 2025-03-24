@@ -6,7 +6,6 @@ ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
 adg.rokh.biz
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
