@@ -65,6 +65,7 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
+ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ag.ff0x.ca
 ag.marschi.de
@@ -328,6 +329,7 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
 dns.lsho.top
+dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
@@ -908,7 +910,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sdns22.gkonuralp.com
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
