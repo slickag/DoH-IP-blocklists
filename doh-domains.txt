@@ -121,7 +121,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
-cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
@@ -1006,7 +1005,6 @@ www.morbitzer.de
 www.muxyuji.ru
 www.pukanuragan.ru
 www.unasw.eu
-www.zburger.top
 wyx.cloud
 xenergy.cc
 xray.krnl.eu
