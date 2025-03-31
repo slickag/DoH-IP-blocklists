@@ -110,7 +110,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
-dns.kugoapps.com
 dns.lightmaster.pw
 dns.lvolland.fr
 dns.mandre.dev
@@ -135,7 +134,6 @@ dns.truong.fi
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
-dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
