@@ -458,7 +458,6 @@ dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
 dns.wibenson.cloud
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -1002,7 +1001,6 @@ vie01.dnscry.pt
 virga.pp.ua
 vpn.technicule.info
 vpsus3.pzhg.me
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wikimedia-dns.org
