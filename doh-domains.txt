@@ -95,6 +95,7 @@ atl01.dnscry.pt
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
+axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -538,7 +539,6 @@ doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cox.net
 doh.crypto.sx
-doh.datacore.ch
 doh.datahata.by
 doh.defaultroutes.de
 doh.disconnect.app
@@ -926,6 +926,7 @@ secure-dns.dns-ga.de
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
+securedns.vendorvista.xyz
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com

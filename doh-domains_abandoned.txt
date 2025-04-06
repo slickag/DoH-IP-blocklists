@@ -35,7 +35,6 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
-axaxa.fun
 b-ii.com
 bcandrade.ml
 berd.moe
@@ -46,6 +45,7 @@ cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -166,6 +166,7 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
+doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
@@ -261,7 +262,6 @@ resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
-securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
