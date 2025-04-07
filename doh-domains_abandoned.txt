@@ -120,7 +120,6 @@ dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
 dns.pesaventofilippo.com
-dns.pnh.my.id
 dns.post-factum.tk
 dns.privado.ovh
 dns.privilab.net
@@ -272,6 +271,7 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
