@@ -221,7 +221,6 @@ inde.ragnvindr.org
 iris.woozeno.eu
 irre.li
 jambi.undo.it
-jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -231,7 +230,6 @@ kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 nanopi.cybergroove.net
@@ -282,7 +280,6 @@ us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
-vtcuong.site
 wantaquddin.com
 wdns.233py.com
 www.dnsadguard.co.uk
