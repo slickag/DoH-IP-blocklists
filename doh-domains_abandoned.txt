@@ -6,7 +6,6 @@ ad-dns.lista.my.id
 ad1.heronet.nl
 adblock.borjalopez.eu
 adg.rokh.biz
-adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -59,7 +58,6 @@ dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0x55.net
-dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
@@ -227,8 +225,10 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
