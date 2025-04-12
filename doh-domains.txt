@@ -41,7 +41,6 @@ adguard.bonis.de
 adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.gbrossi.com.br
@@ -569,7 +568,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
