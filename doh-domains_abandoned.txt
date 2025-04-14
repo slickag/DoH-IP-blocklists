@@ -110,6 +110,7 @@ dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
 dns.lightmaster.pw
+dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -211,6 +212,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com

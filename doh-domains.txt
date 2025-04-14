@@ -333,7 +333,6 @@ dns.lgprk.com
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
-dns.lsho.top
 dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
