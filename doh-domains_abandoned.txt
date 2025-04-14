@@ -25,6 +25,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
+adguard.sparshbajaj.me
 adguardh.ga
 ag.hostme.co.il
 ag.ssrahul96.xyz
