@@ -129,6 +129,7 @@ dns.siry.de
 dns.surfshark.com
 dns.theres.one
 dns.truong.fi
+dns.tryk.app
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -211,6 +212,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
