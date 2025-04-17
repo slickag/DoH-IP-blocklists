@@ -214,7 +214,6 @@ gclouddns.com
 groupy.ga
 himedns.com
 hk.rslvr.eu
-hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com

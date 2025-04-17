@@ -723,6 +723,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hydra.plan9-ns1.com
 i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
