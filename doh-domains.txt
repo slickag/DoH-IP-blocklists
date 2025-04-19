@@ -173,7 +173,6 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
-dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.4-the.win
@@ -325,7 +324,6 @@ dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.levonet.sk
