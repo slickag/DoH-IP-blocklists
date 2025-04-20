@@ -479,7 +479,6 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
-dns2.cbio.top
 dns2.digitale-gesellschaft.ch
 dns2.guidocioni.it
 dns2.klcd.eu
@@ -703,6 +702,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
