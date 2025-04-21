@@ -146,7 +146,6 @@ dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
-dns2.cbio.top
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top

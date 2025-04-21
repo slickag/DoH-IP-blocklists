@@ -479,6 +479,7 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
+dns2.cbio.top
 dns2.digitale-gesellschaft.ch
 dns2.guidocioni.it
 dns2.klcd.eu
