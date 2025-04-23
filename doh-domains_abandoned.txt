@@ -48,7 +48,6 @@ chewbacca.meganerd.nl
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -215,6 +214,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com
@@ -236,6 +236,7 @@ la.ray0512.win
 local.sufly.top
 lon-dns.bitdefender.net
 nanopi.cybergroove.net
+nat64.tuxis.nl
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
