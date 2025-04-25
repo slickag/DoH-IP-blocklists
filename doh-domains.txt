@@ -420,6 +420,7 @@ dns.stevenz.net
 dns.strassmair.org
 dns.stvsk.ml
 dns.superstefan.win
+dns.surfshark.com
 dns.svoi.dev
 dns.swin.pro
 dns.switch.ch
