@@ -540,7 +540,6 @@ doh.crypto.sx
 doh.datahata.by
 doh.defaultroutes.de
 doh.disconnect.app
-doh.dns-ga.de
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
@@ -924,7 +923,6 @@ sdns22.gkonuralp.com
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
-secure-dns.dns-ga.de
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
@@ -975,6 +973,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tyo01.dnscry.pt
