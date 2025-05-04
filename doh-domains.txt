@@ -432,6 +432,7 @@ dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
 dns.tls-data.de
+dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -562,7 +563,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
@@ -700,7 +700,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
