@@ -25,7 +25,6 @@ adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
-adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguardh.ga
 ag.hostme.co.il
@@ -133,6 +132,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.siry.de
 dns.theres.one
+dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.wakgood.net
@@ -235,7 +235,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
@@ -260,7 +259,6 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
