@@ -77,7 +77,6 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -700,7 +699,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
