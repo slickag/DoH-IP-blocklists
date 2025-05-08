@@ -132,6 +132,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.siry.de
 dns.theres.one
+dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.wakgood.net
