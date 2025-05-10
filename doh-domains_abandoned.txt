@@ -124,6 +124,7 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
+dns.ovpn.bond
 dns.pernika.net
 dns.pesaventofilippo.com
 dns.post-factum.tk

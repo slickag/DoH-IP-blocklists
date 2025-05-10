@@ -366,7 +366,6 @@ dns.oliviertv.co.za
 dns.opendns.com
 dns.oszx.co
 dns.ours.luxe
-dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
