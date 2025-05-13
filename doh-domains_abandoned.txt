@@ -63,6 +63,7 @@ dns.0x55.net
 dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
+dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
@@ -203,6 +204,7 @@ dot.chi.ahadns.net
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
+dot.libredns.gr.com
 dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
