@@ -133,8 +133,8 @@ dns.privado.ovh
 dns.privilab.net
 dns.pumplex.com
 dns.siry.de
+dns.skrep.eu
 dns.theres.one
-dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.wakgood.net
@@ -223,6 +223,7 @@ gclouddns.com
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
