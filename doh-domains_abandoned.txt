@@ -168,6 +168,7 @@ doh.233py.com
 doh.abmb.win
 doh.au.ahadns.net
 doh.boje8.me
+doh.bt.com
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.datacore.ch
@@ -178,7 +179,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.morizt.id
@@ -238,6 +238,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
@@ -262,6 +263,7 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org

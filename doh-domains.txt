@@ -526,7 +526,6 @@ doh.asia.dnswarden.com
 doh.azoris.ovh
 doh.beauty
 doh.bortzmeyer.fr
-doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -560,6 +559,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
