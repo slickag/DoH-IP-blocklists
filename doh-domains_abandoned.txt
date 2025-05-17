@@ -60,7 +60,6 @@ dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0x55.net
-dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.52306.org
@@ -168,7 +167,6 @@ doh.233py.com
 doh.abmb.win
 doh.au.ahadns.net
 doh.boje8.me
-doh.bt.com
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.datacore.ch
@@ -238,7 +236,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
@@ -263,7 +260,6 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org

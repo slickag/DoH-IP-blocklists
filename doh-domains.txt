@@ -172,6 +172,7 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
+dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.4-the.win
@@ -526,6 +527,7 @@ doh.asia.dnswarden.com
 doh.azoris.ovh
 doh.beauty
 doh.bortzmeyer.fr
+doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
