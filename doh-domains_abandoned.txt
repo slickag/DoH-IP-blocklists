@@ -81,7 +81,6 @@ dns.cloudseriousshit.com
 dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
-dns.digitale-gesellschaft.ch
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -143,14 +142,12 @@ dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
-dns1.digitale-gesellschaft.ch
 dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
-dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
