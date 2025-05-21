@@ -376,7 +376,6 @@ dns.pragmasec.nl
 dns.pub
 dns.pumpkinvrar.com
 dns.quad9.net
-dns.rafn.is
 dns.rayanbab.com
 dns.rbn.gr
 dns.reckoningslug.name
