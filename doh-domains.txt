@@ -615,9 +615,7 @@ doh.xfinity.com
 doh.xyz
 doh003.280blocker.net
 doh1.b-cdn.net
-doh1.blahdns.com
 doh2.b-cdn.net
-doh2.blahdns.com
 doh2.gslb2.xfinity.com
 dohdot.coxlab.net
 dohtrial.att.net
@@ -705,7 +703,6 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hkg01.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de

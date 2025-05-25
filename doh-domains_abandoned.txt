@@ -194,7 +194,9 @@ doh.this.web.id
 doh.velyn.my.id
 doh.zephyrus.id
 doh.zln.wtf
+doh1.blahdns.com
 doh2.abmb.win
+doh2.blahdns.com
 dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
@@ -222,6 +224,7 @@ gclouddns.com
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
+hkname.freecdn.one
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
