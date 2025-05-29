@@ -148,7 +148,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -556,6 +555,7 @@ doh.funtopia.tv
 doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
+doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
