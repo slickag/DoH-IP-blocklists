@@ -148,6 +148,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -329,6 +330,7 @@ dns.lgprk.com
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
+dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
