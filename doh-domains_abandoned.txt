@@ -170,7 +170,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.datacore.ch
-doh.dns-ga.de
 doh.doh.my.id
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
@@ -268,7 +267,6 @@ resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
-secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
