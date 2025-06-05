@@ -121,6 +121,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.ndo.dev
 dns.nixnet.xyz
+dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
 dns.ovpn.bond

@@ -356,7 +356,6 @@ dns.nextdns.io
 dns.nhtsky.com
 dns.ningkelle.id
 dns.njal.la
-dns.norvig.dk
 dns.novali.date
 dns.novg.net
 dns.npe.bz
