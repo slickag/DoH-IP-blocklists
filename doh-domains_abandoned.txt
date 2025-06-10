@@ -89,7 +89,6 @@ dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.edgy.network
 dns.edison42.dev
 dns.ellichua.com
 dns.emeraldonion.org
@@ -121,6 +120,7 @@ dns.mandre.dev
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.moulticast.net
 dns.ndo.dev
 dns.nixnet.xyz
 dns.norvig.dk
@@ -136,6 +136,7 @@ dns.pumplex.com
 dns.rafn.is
 dns.siry.de
 dns.theres.one
+dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.wakgood.net
@@ -242,6 +243,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
@@ -263,6 +265,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id

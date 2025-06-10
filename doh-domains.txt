@@ -254,6 +254,7 @@ dns.dnswarden.com
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
+dns.edgy.network
 dns.elemental.software
 dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com
@@ -340,7 +341,6 @@ dns.milkpie.one
 dns.mo0on15.com
 dns.molinero.dev
 dns.moonssif.com
-dns.moulticast.net
 dns.msxnet.ru
 dns.mullvad.net
 dns.murgi.de
@@ -427,7 +427,6 @@ dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
 dns.tls-data.de
-dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -750,7 +749,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -836,7 +834,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
