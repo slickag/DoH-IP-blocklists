@@ -135,8 +135,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.siry.de
-dns.skrep.eu
-dns.skrep.in
 dns.theres.one
 dns.truong.fi
 dns.tryk.app
@@ -195,7 +193,6 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
