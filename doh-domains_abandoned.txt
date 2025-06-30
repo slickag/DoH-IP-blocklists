@@ -224,7 +224,6 @@ everovpn.co
 example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
-galileo.math.unipd.it
 gclouddns.com
 groupy.ga
 hk.rslvr.eu
