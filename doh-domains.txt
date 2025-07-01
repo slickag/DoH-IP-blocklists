@@ -184,7 +184,6 @@ dns.aa.net.uk
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
-dns.adrianlam.com
 dns.albony.xyz
 dns.alidns.com
 dns.alloxr.info
@@ -259,6 +258,7 @@ dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
+dns.f97.xyz
 dns.fancyorg.at
 dns.filipccz.eu
 dns.flatuslifir.is
