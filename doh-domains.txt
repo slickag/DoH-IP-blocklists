@@ -125,7 +125,6 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
 cleanbrowsing.org
-clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -260,7 +259,6 @@ dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
-dns.f97.xyz
 dns.fancyorg.at
 dns.filipccz.eu
 dns.flatuslifir.is
