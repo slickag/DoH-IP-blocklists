@@ -144,7 +144,6 @@ dns.rafn.is
 dns.siry.de
 dns.theres.one
 dns.truong.fi
-dns.tryk.app
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
