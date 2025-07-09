@@ -16,15 +16,11 @@ ad.tzockt.beer
 ada.openbld.net
 adb-home.xaoimoon.fr
 adb.aadityakushwaha.com
-adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
 adblock.leenit.kr
-adblock.lux1.dns.nixnet.xyz
-adblock.lv1.dns.nixnet.xyz
 adblock.mydns.network
-adblock.ny1.dns.nixnet.xyz
 adblockersite.com
 addns1.m-it.ro
 adfree.usableprivacy.net
@@ -758,8 +754,6 @@ lion.dns.qwer.pw
 lion.yazilimatolye.com
 llk01.dnscry.pt
 lon01.dnscry.pt
-lux1.nixnet.xyz
-lv1.nixnet.xyz
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
@@ -812,7 +806,6 @@ nsc.torgues.net
 nsec.arnor.org
 nvi-dns.bitdefender.net
 ny.teradns.org
-ny1.nixnet.xyz
 nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
@@ -968,10 +961,6 @@ typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
 uk01.dns4me.net
-uncensored.any.dns.nixnet.xyz
-uncensored.lux1.dns.nixnet.xyz
-uncensored.lv1.dns.nixnet.xyz
-uncensored.ny1.dns.nixnet.xyz
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
