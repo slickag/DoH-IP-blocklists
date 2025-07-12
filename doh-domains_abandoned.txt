@@ -119,7 +119,6 @@ dns.janl.eu
 dns.jucker.engineering
 dns.keke125.com
 dns.labnekotest.site
-dns.lightmaster.pw
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
