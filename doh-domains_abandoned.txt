@@ -276,6 +276,7 @@ please.dontsteal.my.id
 pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver.r0cket.net
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
