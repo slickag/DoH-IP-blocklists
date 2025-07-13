@@ -10,7 +10,6 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
-adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -34,7 +33,6 @@ adguardh.ga
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -103,7 +101,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.futuredns.me
 dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -118,7 +115,6 @@ dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
 dns.keke125.com
-dns.labnekotest.site
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
@@ -177,7 +173,6 @@ doh.abmb.win
 doh.au.ahadns.net
 doh.boje8.me
 doh.chi.ahadns.net
-doh.cnetwork.cloud
 doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
@@ -230,6 +225,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hydroxlab.ru.com
@@ -276,7 +272,6 @@ please.dontsteal.my.id
 pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
-resolver.r0cket.net
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
