@@ -124,6 +124,7 @@ dns.moog.sh
 dns.moulticast.net
 dns.ndo.dev
 dns.nixnet.xyz
+dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
@@ -241,6 +242,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -249,7 +251,6 @@ local.sufly.top
 lon-dns.bitdefender.net
 lux1.nixnet.xyz
 lv1.nixnet.xyz
-msr177.com
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
