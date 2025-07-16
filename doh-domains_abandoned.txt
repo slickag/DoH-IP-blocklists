@@ -124,7 +124,6 @@ dns.moog.sh
 dns.moulticast.net
 dns.ndo.dev
 dns.nixnet.xyz
-dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
@@ -138,6 +137,8 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.siry.de
+dns.skrep.eu
+dns.skrep.in
 dns.theres.one
 dns.truong.fi
 dns.wakgood.net
@@ -225,7 +226,6 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hydroxlab.ru.com
@@ -249,6 +249,7 @@ local.sufly.top
 lon-dns.bitdefender.net
 lux1.nixnet.xyz
 lv1.nixnet.xyz
+msr177.com
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
