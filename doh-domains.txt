@@ -298,7 +298,6 @@ dns.interhub.cc
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
-dns.joaofidelix.com.br
 dns.joey01245.nl
 dns.jstockley.com
 dns.jundev.org
