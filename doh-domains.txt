@@ -250,7 +250,6 @@ dns.dnswarden.com
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
-dns.edgy.network
 dns.elemental.software
 dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com

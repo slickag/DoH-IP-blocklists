@@ -93,6 +93,7 @@ dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
+dns.edgy.network
 dns.edison42.dev
 dns.ellichua.com
 dns.emeraldonion.org
