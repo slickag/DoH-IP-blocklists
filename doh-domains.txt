@@ -988,6 +988,7 @@ virga.pp.ua
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wikimedia-dns.org
@@ -1003,6 +1004,7 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
