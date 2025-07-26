@@ -35,7 +35,6 @@ adguard.abd.ong
 adguard.avdkishore.dev
 adguard.bonis.de
 adguard.bonsirven.eu
-adguard.cloudmini.net
 adguard.dekonix.ru
 adguard.depieri.net
 adguard.ef67daisuki.club
@@ -246,6 +245,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.doh.best
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
