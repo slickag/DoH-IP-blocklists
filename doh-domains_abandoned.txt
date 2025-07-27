@@ -54,7 +54,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -92,6 +91,7 @@ dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
+dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
