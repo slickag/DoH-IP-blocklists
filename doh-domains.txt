@@ -225,6 +225,7 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cryptomize.com
@@ -423,7 +424,6 @@ dns.therifleman.name
 dns.tls-data.de
 dns.tracker.ink
 dns.trust404.win
-dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
@@ -499,6 +499,7 @@ dog.dns.qwer.pw
 doh-01.spectrum.com
 doh-02.spectrum.com
 doh-2.seby.io
+doh-ca.naftalie.net
 doh-de.blahdns.com
 doh-ipv6.crypto.sx
 doh-primary-pool.detoxifypornblocker.com
@@ -690,7 +691,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com

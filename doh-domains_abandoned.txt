@@ -85,7 +85,6 @@ dns.carter.me
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
-dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.dns-over-https.com
@@ -143,6 +142,7 @@ dns.rafn.is
 dns.siry.de
 dns.theres.one
 dns.truong.fi
+dns.tryk.app
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -168,7 +168,6 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
-doh-ca.naftalie.net
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -227,6 +226,7 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hydroxlab.ru.com
