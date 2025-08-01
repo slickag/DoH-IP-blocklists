@@ -940,7 +940,6 @@ sundalandia.pp.ua
 sunnygyl.com
 switch.ch
 syd.adfilter.net
-syd01.dnscry.pt
 takhtakh.domyah.net
 testaghome.meshkov.info
 testguard.meexx.de
@@ -958,7 +957,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tyo01.dnscry.pt
