@@ -773,7 +773,6 @@ max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
-minilla.store
 morbitzer.de
 mozilla.cloudflare-dns.com
 msr177.com
