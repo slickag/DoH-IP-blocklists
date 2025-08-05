@@ -131,7 +131,6 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
 dns.ovpn.bond
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.privado.ovh
@@ -225,7 +224,6 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hydroxlab.ru.com
