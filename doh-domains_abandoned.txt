@@ -213,6 +213,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 ecs-doh.dnswarden.com
+edgy-dns.com
 edns.233py.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -221,7 +222,6 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hydroxlab.ru.com
