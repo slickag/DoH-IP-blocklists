@@ -107,6 +107,7 @@ dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.hugo0.moe
 dns.ian.rocks
+dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
@@ -222,7 +223,6 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 hydroxlab.ru.com
