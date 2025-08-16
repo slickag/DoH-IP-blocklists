@@ -249,6 +249,7 @@ lv1.nixnet.xyz
 minilla.store
 n0.eu
 nanopi.cybergroove.net
+nat64.tuxis.nl
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
