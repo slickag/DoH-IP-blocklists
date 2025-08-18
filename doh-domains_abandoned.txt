@@ -221,7 +221,6 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
-family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
 hk.rslvr.eu
