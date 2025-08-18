@@ -137,6 +137,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.siry.de
+dns.stvsk.ml
 dns.theres.one
 dns.truong.fi
 dns.tryk.app

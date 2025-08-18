@@ -410,7 +410,6 @@ dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
 dns.strassmair.org
-dns.stvsk.ml
 dns.superstefan.win
 dns.surfshark.com
 dns.svoi.dev
