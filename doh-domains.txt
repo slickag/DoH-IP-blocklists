@@ -728,6 +728,7 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
+jit.ddns.net
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
