@@ -26,6 +26,7 @@ adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
 adguard.mattiafenzi.uk
+adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguard.sparshbajaj.me

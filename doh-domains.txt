@@ -48,7 +48,6 @@ adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
-adguard.mrmartian.co
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.piekacz.pl
