@@ -48,6 +48,7 @@ adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
+adguard.mrmartian.co
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -691,7 +692,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -727,7 +727,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
-jit.ddns.net
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
