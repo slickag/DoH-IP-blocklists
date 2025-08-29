@@ -280,7 +280,6 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanahira.dev
 dns.hanmey.de
-dns.henek.ovh
 dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net
