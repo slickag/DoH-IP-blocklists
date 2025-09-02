@@ -228,7 +228,6 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
@@ -293,7 +292,6 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tlz.asia
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
