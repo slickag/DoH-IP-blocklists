@@ -230,6 +230,7 @@ dns.colorfreedom.org
 dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
@@ -689,7 +690,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com

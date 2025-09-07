@@ -83,7 +83,6 @@ dns.carter.me
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
-dns.containerpi.com
 dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
