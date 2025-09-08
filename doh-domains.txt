@@ -479,6 +479,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnscache.e-utp.net
+dnsenc.com
 dnsforfamily.com
 dnsforge.de
 dnslow.me
