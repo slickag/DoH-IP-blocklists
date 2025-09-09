@@ -168,6 +168,7 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
+dns.233py.com
 dns.240527.xyz
 dns.354688.xyz
 dns.4-the.win
@@ -505,6 +506,7 @@ doh-ipv6.crypto.sx
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
+doh.233py.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
@@ -647,6 +649,7 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
+edns.233py.com
 ee-tll.doh.sb
 emby.rasp.tv
 esel.stusta.mhn.de
@@ -691,6 +694,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -708,6 +712,7 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hydra.plan9-ns1.com
+i.233py.com
 i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
@@ -780,6 +785,7 @@ muxyuji.ru
 n5.lsasss.com
 nat64.tuxis.nl
 naw01.dnscry.pt
+ndns.233py.com
 nl-ams.doh.sb
 nl-ams2.doh.sb
 noads.imbuffering.com
@@ -898,6 +904,7 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
+sdns.233py.com
 sdns22.gkonuralp.com
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -983,6 +990,7 @@ vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
+wdns.233py.com
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
