@@ -548,6 +548,7 @@ doh.eastus.pi-dns.com
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
+doh.funil.de
 doh.funtopia.tv
 doh.futa.gg
 doh.hottis.de
