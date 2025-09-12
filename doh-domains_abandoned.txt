@@ -1,4 +1,5 @@
 1.xhr0no.my
+3dns.eu
 a-bld.sys-adm.in
 a.zpn.me
 aattwwss.duckdns.org
@@ -139,11 +140,13 @@ dns.pumplex.com
 dns.rafn.is
 dns.rootlab.top
 dns.siry.de
+dns.skrep.eu
 dns.stvsk.ml
 dns.swin.pro
 dns.theres.one
 dns.truong.fi
 dns.tryk.app
+dns.vishalk.com
 dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
@@ -224,6 +227,7 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
