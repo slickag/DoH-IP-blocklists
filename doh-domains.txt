@@ -459,7 +459,6 @@ dns1.irumatech.com
 dns1.klcd.eu
 dns1.nextdns.io
 dns1.nordvpn.com
-dns1.pietjacobs.be
 dns1.ryan-palmer.com
 dns1.techeasy.org
 dns10.quad9.net
