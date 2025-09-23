@@ -45,7 +45,6 @@ berd.moe
 bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
-cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -192,6 +191,7 @@ doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
+doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 doh.post-factum.tk
@@ -214,6 +214,7 @@ dot.in.ahadns.net
 dot.it.ahadns.net
 dot.libredns.gr.com
 dot.no.ahadns.net
+dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
@@ -289,6 +290,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org

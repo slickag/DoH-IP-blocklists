@@ -117,6 +117,7 @@ ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
 catdns.org
+cdn.0ms.dev
 chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
@@ -691,7 +692,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
