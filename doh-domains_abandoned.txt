@@ -145,7 +145,6 @@ dns.theres.one
 dns.truong.fi
 dns.tryk.app
 dns.vishalk.com
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
