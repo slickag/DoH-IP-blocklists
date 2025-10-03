@@ -349,7 +349,6 @@ dns.nas-server.ru
 dns.neilzone.co.uk
 dns.neubsi.at
 dns.nextdns.io
-dns.nhtsky.com
 dns.ningkelle.id
 dns.njal.la
 dns.novali.date
@@ -692,7 +691,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
