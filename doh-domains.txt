@@ -372,7 +372,6 @@ dns.pumpkinvrar.com
 dns.quad9.net
 dns.rayanbab.com
 dns.rbn.gr
-dns.reckoningslug.name
 dns.repinger.my.id
 dns.repressoh.it
 dns.retakecs.com
@@ -387,7 +386,6 @@ dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
-dns.seiffert.me
 dns.sellan.fr
 dns.sev.monster
 dns.shecan.ir
@@ -689,7 +687,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
