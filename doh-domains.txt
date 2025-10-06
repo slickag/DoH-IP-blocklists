@@ -237,7 +237,6 @@ dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
 dns.d94.xyz
-dns.d96.info
 dns.daemon.za.net
 dns.david888.com
 dns.daw.dev

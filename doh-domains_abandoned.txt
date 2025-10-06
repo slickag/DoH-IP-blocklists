@@ -84,6 +84,7 @@ dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
 dns.cybershell.xyz
+dns.d96.info
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -246,6 +247,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
