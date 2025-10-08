@@ -279,6 +279,7 @@ dns.grqu.de
 dns.guard.io
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
+dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.hinet.net
