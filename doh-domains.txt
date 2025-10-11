@@ -279,7 +279,6 @@ dns.grqu.de
 dns.guard.io
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
-dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.hinet.net
@@ -353,7 +352,6 @@ dns.njal.la
 dns.novali.date
 dns.novg.net
 dns.npe.bz
-dns.npsolution.it
 dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -688,6 +686,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com

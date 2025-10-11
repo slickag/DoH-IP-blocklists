@@ -102,6 +102,7 @@ dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
+dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.henek.ovh
 dns.hugo0.moe
@@ -128,6 +129,7 @@ dns.ndo.dev
 dns.nhtsky.com
 dns.nixnet.xyz
 dns.norvig.dk
+dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -229,7 +231,6 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
