@@ -516,7 +516,6 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
-doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
 doh.cox.net
@@ -533,9 +532,6 @@ doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
 doh.dscloud.me
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
@@ -564,7 +560,6 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
-doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
@@ -573,7 +568,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -596,7 +590,6 @@ doh.umbrella.com
 doh.us.dnswarden.com
 doh.valscosmos.com
 doh.viatech.com.tw
-doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -610,22 +603,16 @@ dohtrial.att.net
 dot-de.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
-dot.centraleu.pi-dns.com
 dot.cox.net
-dot.eastas.pi-dns.com
-dot.eastau.pi-dns.com
-dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
-dot.northeu.pi-dns.com
 dot.pub
 dot.quickline.ch
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
-dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -686,7 +673,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
