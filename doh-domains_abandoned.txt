@@ -106,6 +106,7 @@ dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.henek.ovh
 dns.hugo0.moe
+dns.huyhoangit.net
 dns.ian.rocks
 dns.indust.me
 dns.indybanipal.com
