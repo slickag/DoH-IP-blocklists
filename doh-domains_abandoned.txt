@@ -83,6 +83,7 @@ dns.carter.me
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
+dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
@@ -107,6 +108,7 @@ dns.haoxuan.xyz
 dns.henek.ovh
 dns.hugo0.moe
 dns.huyhoangit.net
+dns.hypercute.eu
 dns.ian.rocks
 dns.indust.me
 dns.indybanipal.com

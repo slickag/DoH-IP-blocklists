@@ -230,7 +230,6 @@ dns.colorfreedom.org
 dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
-dns.containerpi.com
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
@@ -287,7 +286,6 @@ dns.hostux.net
 dns.hotta.page
 dns.hujiayucc.cn
 dns.huseynov.work
-dns.hypercute.eu
 dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
