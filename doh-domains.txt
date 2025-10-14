@@ -359,6 +359,7 @@ dns.ours.luxe
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
+dns.pernika.net
 dns.phillipjberry.net
 dns.pnh.my.id
 dns.porteii.com
