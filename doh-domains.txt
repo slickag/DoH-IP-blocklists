@@ -142,6 +142,7 @@ cvt01.dnscry.pt
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -636,6 +637,7 @@ family.5ososea.com
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru

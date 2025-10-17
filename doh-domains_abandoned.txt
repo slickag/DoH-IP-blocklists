@@ -54,7 +54,6 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
-d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -245,7 +244,6 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
-family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
