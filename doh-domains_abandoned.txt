@@ -120,6 +120,7 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
+dns.lashes-brow.ru
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
