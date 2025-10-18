@@ -35,7 +35,6 @@ adguard.abd.ong
 adguard.avdkishore.dev
 adguard.bitteeinbyte.de
 adguard.bonis.de
-adguard.bonsirven.eu
 adguard.dekonix.ru
 adguard.depieri.net
 adguard.ef67daisuki.club
@@ -540,7 +539,6 @@ doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
