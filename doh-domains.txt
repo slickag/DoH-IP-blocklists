@@ -35,6 +35,7 @@ adguard.abd.ong
 adguard.avdkishore.dev
 adguard.bitteeinbyte.de
 adguard.bonis.de
+adguard.bonsirven.eu
 adguard.dekonix.ru
 adguard.depieri.net
 adguard.ef67daisuki.club
@@ -66,7 +67,6 @@ ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ag.brianlee.fun
 ag.ff0x.ca
-ag.marschi.de
 agh-yz.russel053.com
 agh.fltn.us
 agh.printk.info
@@ -677,6 +677,7 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hkg01.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
