@@ -32,7 +32,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguardh.ga
 ag.hostme.co.il
-ag.marschi.de
 ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
