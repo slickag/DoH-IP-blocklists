@@ -247,6 +247,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.doh.best
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
@@ -269,7 +270,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
