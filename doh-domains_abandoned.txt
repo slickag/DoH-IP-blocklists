@@ -89,6 +89,7 @@ dns.d96.info
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
+dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
