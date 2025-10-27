@@ -248,7 +248,6 @@ dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.elemental.software
 dns.enzonix.com
@@ -564,7 +563,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.port53.dk
 doh.powerdns.org
 doh.pub
 doh.pyry.me
