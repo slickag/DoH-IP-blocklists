@@ -144,7 +144,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
-dns.reckoningslug.name
 dns.rootlab.top
 dns.seiffert.me
 dns.siry.de
