@@ -248,6 +248,7 @@ dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.elemental.software
 dns.enzonix.com
