@@ -378,7 +378,6 @@ dns.rubyfish.cn
 dns.sarak.as
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
@@ -529,7 +528,6 @@ doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
-doh.dscloud.me
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
