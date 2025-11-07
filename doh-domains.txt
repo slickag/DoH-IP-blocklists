@@ -46,6 +46,7 @@ adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
 adguard.oms-ctr.ru
@@ -288,7 +289,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.interhub.cc
 dns.internal.hosmatic.com
 dns.islandnet.com
@@ -314,6 +314,7 @@ dns.kusoneko.moe
 dns.l337.site
 dns.labnekotest.site
 dns.lars-lehmann.net
+dns.levonet.sk
 dns.lgprk.com
 dns.lightmaster.pw
 dns.linkr.ninja
@@ -535,6 +536,7 @@ doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
@@ -709,7 +711,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 keithchung.hopto.org
 kids.5ososea.com

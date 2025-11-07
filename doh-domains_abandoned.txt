@@ -24,7 +24,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
@@ -112,6 +111,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -123,7 +123,6 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
-dns.levonet.sk
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
@@ -203,7 +202,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -256,6 +254,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -268,6 +267,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
