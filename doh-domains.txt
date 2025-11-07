@@ -171,7 +171,6 @@ dns.233py.com
 dns.240527.xyz
 dns.354688.xyz
 dns.4-the.win
-dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.888654.xyz
@@ -315,7 +314,6 @@ dns.kusoneko.moe
 dns.l337.site
 dns.labnekotest.site
 dns.lars-lehmann.net
-dns.levonet.sk
 dns.lgprk.com
 dns.lightmaster.pw
 dns.linkr.ninja
@@ -537,7 +535,6 @@ doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net

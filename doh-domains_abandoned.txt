@@ -69,6 +69,7 @@ dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
+dns.7sec.com.br
 dns.aaflalo.me
 dns.adrianlam.com
 dns.aerro.in
@@ -122,6 +123,7 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
+dns.levonet.sk
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
@@ -201,6 +203,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
