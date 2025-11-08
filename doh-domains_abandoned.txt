@@ -44,7 +44,6 @@ berd.moe
 bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
-cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -202,6 +201,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -254,7 +254,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
-home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -267,7 +266,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
