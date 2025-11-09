@@ -267,7 +267,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
@@ -286,6 +285,7 @@ ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
+ns3.link
 nue2.moderateinfra.net
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
