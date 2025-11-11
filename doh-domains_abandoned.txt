@@ -275,6 +275,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 minilla.store
 n0.eu
+nanopi.cybergroove.net
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
