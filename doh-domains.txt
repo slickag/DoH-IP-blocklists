@@ -116,7 +116,6 @@ ca-yyc.doh.sb
 ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
-callies-online.site
 catdns.org
 cdn.0ms.dev
 chaos-system.de
@@ -252,6 +251,7 @@ dns.dnswarden.com
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
+dns.edgy.network
 dns.elemental.software
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert

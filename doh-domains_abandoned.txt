@@ -43,6 +43,7 @@ bcandrade.ml
 berd.moe
 bld.sys-adm.in
 buc-m2.illmods.com
+callies-online.site
 canadianshield.cira.ca
 chandr1000.net
 chaos.altendorfme.com
@@ -91,7 +92,6 @@ dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.edgy.network
 dns.edison42.dev
 dns.ellichua.com
 dns.emeraldonion.org
@@ -144,7 +144,6 @@ dns.pragmasec.nl
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
-dns.repressoh.it
 dns.rootlab.top
 dns.scapetical.com
 dns.seiffert.me
