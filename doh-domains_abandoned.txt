@@ -68,7 +68,6 @@ dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
-dns.7sec.com.br
 dns.aaflalo.me
 dns.adrianlam.com
 dns.aerro.in
@@ -145,6 +144,7 @@ dns.pragmasec.nl
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
+dns.repressoh.it
 dns.rootlab.top
 dns.scapetical.com
 dns.seiffert.me
