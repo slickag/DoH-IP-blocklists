@@ -121,7 +121,6 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
-dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.melalandia.tk
@@ -144,7 +143,6 @@ dns.pragmasec.nl
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
-dns.repressoh.it
 dns.rootlab.top
 dns.scapetical.com
 dns.seiffert.me
@@ -175,7 +173,6 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
 dns8.org
-dnsenc.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
@@ -251,6 +248,7 @@ eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
+galileo.math.unipd.it
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu

@@ -322,6 +322,7 @@ dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
+dns.lsho.top
 dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.maybe.icu
@@ -468,6 +469,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnscache.e-utp.net
+dnsenc.com
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -657,7 +659,6 @@ freedom.mydns.network
 frog.dns.qwer.pw
 fuchur.pentament.de
 fwgw.orangepipc.mywire.org
-galileo.math.unipd.it
 gateway.fomichev.cloud
 gclouddns.com
 geg01.dnscry.pt
