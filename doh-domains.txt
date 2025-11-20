@@ -369,7 +369,6 @@ dns.rayanbab.com
 dns.rbn.gr
 dns.reckoningslug.name
 dns.repinger.my.id
-dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.ronc.ru
@@ -659,6 +658,7 @@ freedom.mydns.network
 frog.dns.qwer.pw
 fuchur.pentament.de
 fwgw.orangepipc.mywire.org
+galileo.math.unipd.it
 gateway.fomichev.cloud
 gclouddns.com
 geg01.dnscry.pt
@@ -679,7 +679,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -807,7 +806,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
