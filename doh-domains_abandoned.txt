@@ -82,7 +82,6 @@ dns.carter.me
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
-dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
@@ -143,7 +142,6 @@ dns.pragmasec.nl
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
-dns.repressoh.it
 dns.rootlab.top
 dns.scapetical.com
 dns.seiffert.me
@@ -252,7 +250,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
-home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -293,7 +290,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id

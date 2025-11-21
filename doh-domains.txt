@@ -231,6 +231,7 @@ dns.colorfreedom.org
 dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
@@ -369,6 +370,7 @@ dns.rayanbab.com
 dns.rbn.gr
 dns.reckoningslug.name
 dns.repinger.my.id
+dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.ronc.ru
@@ -679,6 +681,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -806,6 +809,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
