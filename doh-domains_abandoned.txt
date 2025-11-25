@@ -42,6 +42,7 @@ b-ii.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
+blockerads.multimediaconcept.fr
 buc-m2.illmods.com
 callies-online.site
 canadianshield.cira.ca
@@ -49,6 +50,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 clearweb.woodbridge.club
+cloud.samutz.com
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -82,6 +84,7 @@ dns.carter.me
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
+dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com

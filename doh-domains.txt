@@ -125,7 +125,6 @@ clean.dnsforge.de
 cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
-cloud.samutz.com
 cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
@@ -231,7 +230,6 @@ dns.colorfreedom.org
 dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
-dns.containerpi.com
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
