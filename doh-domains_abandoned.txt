@@ -42,7 +42,6 @@ b-ii.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
-blockerads.multimediaconcept.fr
 buc-m2.illmods.com
 callies-online.site
 canadianshield.cira.ca
@@ -50,7 +49,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 clearweb.woodbridge.club
-cloud.samutz.com
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -266,6 +264,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
