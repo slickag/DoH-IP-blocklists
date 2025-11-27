@@ -105,6 +105,7 @@ dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.henek.ovh
+dns.horcrux.vip
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
