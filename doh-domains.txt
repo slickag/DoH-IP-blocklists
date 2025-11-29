@@ -361,7 +361,6 @@ dns.pernika.net
 dns.phillipjberry.net
 dns.pnh.my.id
 dns.porteii.com
-dns.privado.ovh
 dns.pub
 dns.pumpkinvrar.com
 dns.quad9.net
@@ -808,7 +807,6 @@ orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
-orpi.privado.ovh
 osefcorp.duckdns.org
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
