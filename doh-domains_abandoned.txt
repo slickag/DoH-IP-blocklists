@@ -285,7 +285,6 @@ ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
 ns3.link
-ns4.opennameserver.org
 nue2.moderateinfra.net
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
