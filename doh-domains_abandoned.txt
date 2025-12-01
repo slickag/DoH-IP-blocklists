@@ -74,6 +74,7 @@ dns.aerro.in
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
+dns.azsopro.net
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -334,4 +335,3 @@ www.pukanuragan.ru
 www.zburger.top
 ycg01.dnscry.pt
 ychen.ga
-zougloub.eu
