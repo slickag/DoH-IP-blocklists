@@ -270,7 +270,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -989,6 +988,5 @@ yul01.dnscry.pt
 yunyun.is.my.waifu.cz
 zal01.dnscry.pt
 zero.dns0.eu
-zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
