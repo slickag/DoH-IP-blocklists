@@ -264,7 +264,6 @@ dns.flymc.cc
 dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
-dns.furrydns.de
 dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
