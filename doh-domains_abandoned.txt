@@ -147,7 +147,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.rootlab.top
-dns.scapetical.com
 dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
@@ -255,8 +254,8 @@ everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
-home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
