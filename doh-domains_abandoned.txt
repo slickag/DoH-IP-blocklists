@@ -53,6 +53,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -254,7 +255,6 @@ everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
