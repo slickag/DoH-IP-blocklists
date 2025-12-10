@@ -144,6 +144,7 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -662,7 +663,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -716,7 +716,6 @@ kids.5ososea.com
 kids.dns0.eu
 kilabit.info
 kiv01.dnscry.pt
-korzhov.dev
 kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
