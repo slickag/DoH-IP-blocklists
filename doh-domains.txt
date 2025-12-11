@@ -258,7 +258,6 @@ dns.extrawdw.net
 dns.f97.xyz
 dns.fancyorg.at
 dns.filipccz.eu
-dns.flatuslifir.is
 dns.flwagners.com
 dns.flymc.cc
 dns.freyja.pw
