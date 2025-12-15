@@ -362,7 +362,6 @@ dns.pumpkinvrar.com
 dns.quad9.net
 dns.rayanbab.com
 dns.rbn.gr
-dns.repinger.my.id
 dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
