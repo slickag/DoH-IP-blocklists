@@ -42,6 +42,7 @@ adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.gbrossi.com.br
 adguard.haneulo.com
+adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
@@ -362,6 +363,7 @@ dns.pumpkinvrar.com
 dns.quad9.net
 dns.rayanbab.com
 dns.rbn.gr
+dns.repinger.my.id
 dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
