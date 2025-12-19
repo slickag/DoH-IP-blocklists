@@ -253,6 +253,7 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
+family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
 hk.rslvr.eu
@@ -269,6 +270,7 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
+kids.5ososea.com
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -302,7 +304,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
