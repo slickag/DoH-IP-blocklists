@@ -321,7 +321,6 @@ dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
-dns.lsho.top
 dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.maybe.icu
@@ -554,9 +553,6 @@ doh.onedns.net
 doh.opendns.com
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
-doh.phdns3.lonet.org
-doh.phdns4.lonet.org
-doh.phdns5.lonet.org
 doh.powerdns.org
 doh.pub
 doh.pyry.me
@@ -708,6 +704,7 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 keithchung.hopto.org
 kids.dns0.eu
