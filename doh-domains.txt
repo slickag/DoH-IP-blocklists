@@ -57,6 +57,7 @@ adguard.ruby.ci
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
+adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.twotigers.xyz
 adguard.wirimij.nl
@@ -715,6 +716,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
