@@ -519,7 +519,6 @@ doh.dns-ga.de
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
-doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
@@ -552,7 +551,6 @@ doh.nl.ahadns.net
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
-doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 doh.powerdns.org
 doh.pub
@@ -630,7 +628,6 @@ family.dns.ningkelle.id
 family.dns.yandex.ru
 family.dot.dns.yandex.net
 family.mydns.network
-family.puredns.org
 familyshield.opendns.com
 fdns1.dismail.de
 fdns2.dismail.de
