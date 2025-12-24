@@ -251,7 +251,6 @@ dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.elemental.software
@@ -656,7 +655,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
