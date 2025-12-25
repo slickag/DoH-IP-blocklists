@@ -146,7 +146,6 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -364,7 +363,6 @@ dns.pumpkinvrar.com
 dns.quad9.net
 dns.rayanbab.com
 dns.rbn.gr
-dns.repinger.my.id
 dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
