@@ -292,7 +292,6 @@ dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
-dns.interhub.cc
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
