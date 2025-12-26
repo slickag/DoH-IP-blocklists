@@ -146,6 +146,7 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -964,7 +965,6 @@ www.unasw.eu
 wyx.cloud
 xenergy.cc
 xorbiadns.com
-xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
 ychen.gq
