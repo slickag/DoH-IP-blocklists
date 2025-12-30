@@ -146,7 +146,6 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -251,7 +250,6 @@ dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.elemental.software
