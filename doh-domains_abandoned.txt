@@ -266,7 +266,6 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
 hk.rslvr.eu
-home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
