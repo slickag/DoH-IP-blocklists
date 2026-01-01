@@ -530,7 +530,6 @@ doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
