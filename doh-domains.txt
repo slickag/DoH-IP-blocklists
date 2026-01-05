@@ -168,6 +168,7 @@ dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
+dns-public.ibakerserver.pt
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
@@ -261,6 +262,7 @@ dns.extrawdw.net
 dns.f97.xyz
 dns.fancyorg.at
 dns.filipccz.eu
+dns.flatuslifir.is
 dns.flwagners.com
 dns.flymc.cc
 dns.freyja.pw
