@@ -424,6 +424,7 @@ dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vmath.my.id
+dns.wakgood.net
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -891,7 +892,6 @@ sky.rethinkdns.com
 slc01.dnscry.pt
 sof01.dnscry.pt
 spacedns.org
-sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr

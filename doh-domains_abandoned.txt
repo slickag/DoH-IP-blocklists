@@ -158,7 +158,6 @@ dns.tracker.ink
 dns.truong.fi
 dns.vishalk.com
 dns.wahr.top
-dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
@@ -264,7 +263,6 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -282,7 +280,6 @@ kaitain.restena.lu
 kids.5ososea.com
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
@@ -323,6 +320,7 @@ sg.gridns.xyz
 sg.rslvr.eu
 sin01.dnscry.pt
 snoke.meganerd.nl
+sriedmueadguard.casa
 surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
