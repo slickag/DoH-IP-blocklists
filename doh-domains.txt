@@ -6,7 +6,6 @@
 8888.google
 a.family.ns.dnslify.com
 a.ns.dnslify.com
-a.passcloud.xyz
 a.safe.ns.dnslify.com
 abe01.dnscry.pt
 abel.waringer-atg.de
@@ -146,6 +145,7 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -267,6 +267,7 @@ dns.flymc.cc
 dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
+dns.furrydns.de
 dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
@@ -675,7 +676,6 @@ httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hydra.plan9-ns1.com
 i.233py.com
-i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
