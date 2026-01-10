@@ -51,6 +51,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -95,6 +96,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
+dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
@@ -262,6 +264,7 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
