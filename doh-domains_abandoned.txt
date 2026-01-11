@@ -159,6 +159,7 @@ dns.tracker.ink
 dns.truong.fi
 dns.vishalk.com
 dns.wahr.top
+dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
@@ -264,7 +265,6 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
