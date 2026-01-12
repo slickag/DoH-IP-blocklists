@@ -65,6 +65,7 @@ dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
+dns.aa.net.uk
 dns.aaflalo.me
 dns.adrianlam.com
 dns.aerro.in
@@ -130,6 +131,7 @@ dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
 dns.ndo.dev
+dns.neilzone.co.uk
 dns.nhtsky.com
 dns.nixnet.xyz
 dns.norvig.dk
