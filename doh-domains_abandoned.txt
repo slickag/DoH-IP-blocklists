@@ -163,6 +163,7 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
+dns0.eu
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -280,6 +281,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kids.5ososea.com
+kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -307,6 +309,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+open.dns0.eu
 orpi.privado.ovh
 outdoorchair.us
 pi1.node15.com
@@ -351,3 +354,4 @@ www.zburger.top
 xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
+zero.dns0.eu
