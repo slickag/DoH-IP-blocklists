@@ -150,7 +150,6 @@ dns.reckoningslug.name
 dns.repinger.my.id
 dns.rootlab.top
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -265,7 +264,6 @@ example.doh.blockerdns.com
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
-free.shecan.ir
 groupy.ga
 hk.rslvr.eu
 hydroxlab.ru.com
@@ -293,6 +291,7 @@ lon-dns.bitdefender.net
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 minilla.store
+msr177.com
 n0.eu
 neatdns.ustclug.org
 nebula.tru.io
@@ -317,7 +316,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
