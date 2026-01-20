@@ -365,7 +365,6 @@ dns.pumplex.com
 dns.quad9.net
 dns.rayanbab.com
 dns.rbn.gr
-dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.ronc.ru
@@ -653,6 +652,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -689,6 +689,7 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
+jit.ddns.net
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
