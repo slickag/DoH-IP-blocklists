@@ -162,7 +162,6 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
-dns0.eu
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -208,7 +207,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
