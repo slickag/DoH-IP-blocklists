@@ -365,7 +365,6 @@ dns.pumplex.com
 dns.quad9.net
 dns.rayanbab.com
 dns.rbn.gr
-dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.ronc.ru
@@ -790,7 +789,6 @@ orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
-osefcorp.duckdns.org
 paranoia.mydns.network
 paulo.nom.za
 pdns.faelix.net
