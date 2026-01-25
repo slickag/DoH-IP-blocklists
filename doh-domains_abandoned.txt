@@ -43,7 +43,6 @@ bcandrade.ml
 berd.moe
 bld.sys-adm.in
 buc-m2.illmods.com
-callies-online.site
 canadianshield.cira.ca
 chandr1000.net
 chaos.altendorfme.com
@@ -357,4 +356,3 @@ xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
 zero.dns0.eu
-zougloub.eu

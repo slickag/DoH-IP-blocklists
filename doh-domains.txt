@@ -116,6 +116,7 @@ ca-yyc.doh.sb
 ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
+callies-online.site
 catdns.org
 cdn.0ms.dev
 chaos-system.de
@@ -965,5 +966,6 @@ yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
 zal01.dnscry.pt
+zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
