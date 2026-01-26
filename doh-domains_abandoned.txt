@@ -226,7 +226,6 @@ doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
 doh.southam.family
-doh.syshero.org
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -264,6 +263,7 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com

@@ -563,6 +563,7 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
+doh.syshero.org
 doh.technochat.in
 doh.tiar.app
 doh.tiarap.org
