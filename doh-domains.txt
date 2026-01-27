@@ -791,6 +791,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 paranoia.mydns.network
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
