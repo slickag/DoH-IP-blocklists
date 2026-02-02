@@ -107,6 +107,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -262,6 +263,7 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com

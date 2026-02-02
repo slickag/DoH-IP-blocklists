@@ -293,7 +293,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
@@ -655,7 +654,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
