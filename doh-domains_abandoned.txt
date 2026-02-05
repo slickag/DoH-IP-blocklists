@@ -30,7 +30,6 @@ adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguardh.ga
-adult-filter-dns.cleanbrowsing.org
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -48,7 +47,6 @@ canadianshield.cira.ca
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
-cleanbrowsing.org
 clearweb.woodbridge.club
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -156,6 +154,7 @@ dns.swin.pro
 dns.theres.one
 dns.tracker.ink
 dns.truong.fi
+dns.tryk.app
 dns.vishalk.com
 dns.wahr.top
 dns.wakgood.net
@@ -193,7 +192,6 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
-doh.cleanbrowsing.org
 doh.datacore.ch
 doh.dns1.lonet.org
 doh.doh.my.id
@@ -264,7 +262,6 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
