@@ -255,6 +255,7 @@ dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
+dns.edison42.dev
 dns.elemental.software
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
