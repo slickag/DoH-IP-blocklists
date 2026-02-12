@@ -259,7 +259,6 @@ example.doh.blockerdns.com
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
-free.shecan.ir
 groupy.ga
 hk.rslvr.eu
 hydroxlab.ru.com
@@ -343,6 +342,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 us.rslvr.eu
+v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
 www.elshad-adgh-dns.ru
