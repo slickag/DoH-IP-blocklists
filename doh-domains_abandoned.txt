@@ -71,6 +71,7 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.azsopro.net
+dns.baishiyuan.cn
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -106,6 +107,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -293,6 +295,7 @@ neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
 nl.rslvr.eu
+noads.imbuffering.com
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
