@@ -293,6 +293,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
@@ -746,6 +747,7 @@ naw01.dnscry.pt
 ndns.233py.com
 nl-ams.doh.sb
 nl-ams2.doh.sb
+noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
