@@ -137,7 +137,6 @@ common.dot.dns.yandex.net
 commons.host
 comss.one
 comss.ru
-console.carestyle.org
 crypto.sx
 cube.neubsi.at
 cubedns.com
@@ -433,6 +432,7 @@ dns.watch
 dns.weixin.qq.com.cn
 dns.wibenson.cloud
 dns.xwdmw.xyz
+dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.zfsystem.tech

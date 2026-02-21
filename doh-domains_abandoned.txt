@@ -48,6 +48,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 clearweb.woodbridge.club
+console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -160,7 +161,6 @@ dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
 dns.wugui.zone
-dns.yameenassotally.com
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
