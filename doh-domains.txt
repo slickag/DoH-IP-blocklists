@@ -101,7 +101,6 @@ basic.rethinkdns.com
 bl.eq.md
 blackhole.myon.lu
 blitz-setup.ahadns.com
-blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr

@@ -43,6 +43,7 @@ b-ii.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
+blitz.ahadns.com
 buc-m2.illmods.com
 canadianshield.cira.ca
 chandr1000.net
@@ -109,7 +110,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
