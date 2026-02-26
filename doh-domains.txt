@@ -121,6 +121,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
+cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -255,6 +256,7 @@ dns.elemental.software
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
+dns.f97.xyz
 dns.fancyorg.at
 dns.filipccz.eu
 dns.flatuslifir.is
@@ -279,6 +281,7 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanahira.dev
 dns.hanmey.de
+dns.haoxuan.xyz
 dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net
@@ -320,6 +323,7 @@ dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
+dns.lsho.top
 dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.maybe.icu
