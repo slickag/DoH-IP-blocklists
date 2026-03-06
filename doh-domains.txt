@@ -248,6 +248,7 @@ dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
@@ -697,7 +698,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 keithchung.hopto.org
 kilabit.info
