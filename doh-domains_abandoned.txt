@@ -10,6 +10,7 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+addns1.m-it.ro
 adg.rokh.biz
 adguard-dns.rouga.ch
 adguard-dns.turker.info
