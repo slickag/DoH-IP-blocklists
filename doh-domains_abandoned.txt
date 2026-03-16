@@ -10,7 +10,6 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
-addns1.m-it.ro
 adg.rokh.biz
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -138,7 +137,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
@@ -300,8 +298,10 @@ nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
+ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
+ns2.recursive.dnsbycomodo.com
 ns3.cx
 ns3.link
 nue2.moderateinfra.net

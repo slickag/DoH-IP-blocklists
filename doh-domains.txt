@@ -21,6 +21,7 @@ adblock.indianets.net
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
+addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
@@ -357,6 +358,7 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
 dns.pernika.net
+dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
 dns.porteii.com
@@ -755,11 +757,9 @@ ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
 ns1.qquack.org
-ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns2.flodns.net
 ns2.opennameserver.org
-ns2.recursive.dnsbycomodo.com
 ns3.bit-trail.nl
 ns3.com
 ns3.opennameserver.org
