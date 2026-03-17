@@ -114,6 +114,7 @@ dns.infosec.xyz
 dns.interhub.cc
 dns.invisv.com
 dns.ipv6dns.com
+dns.islandnet.com
 dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
