@@ -325,12 +325,14 @@ dns.lista.my.id
 dns.lobbygod.com
 dns.lsho.top
 dns.maolaohei.xyz
+dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.molinero.dev
 dns.moog.sh
 dns.moonssif.com
@@ -820,6 +822,7 @@ puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
