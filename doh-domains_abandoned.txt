@@ -91,7 +91,6 @@ dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -109,6 +108,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -123,9 +123,7 @@ dns.keke125.com
 dns.lashes-brow.ru
 dns.lvolland.fr
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -274,7 +272,6 @@ inde.ragnvindr.org
 iris.woozeno.eu
 irre.li
 jambi.undo.it
-jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
