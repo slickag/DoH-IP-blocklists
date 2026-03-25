@@ -247,6 +247,7 @@ dns.dgea.fr
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
+dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
 dns.dyn1.de
@@ -914,10 +915,12 @@ truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
+tx.teradns.org
 tyo01.dnscry.pt
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
+uk.teradns.org
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk

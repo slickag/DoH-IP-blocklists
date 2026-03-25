@@ -87,7 +87,6 @@ dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
 dns.dnsoverhttps.net
-dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
@@ -334,10 +333,8 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
-tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
-uk.teradns.org
 uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
