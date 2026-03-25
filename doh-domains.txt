@@ -292,7 +292,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
@@ -516,7 +515,6 @@ doh.crypto.sx
 doh.datahata.by
 doh.defaultroutes.de
 doh.disconnect.app
-doh.dns-ga.de
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
@@ -865,7 +863,6 @@ sdns22.gkonuralp.com
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
-secure-dns.dns-ga.de
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
