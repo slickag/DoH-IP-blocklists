@@ -317,6 +317,7 @@ please.dontsteal.my.id
 pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver1.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 secure-dns.dns-ga.de
 secure.onedns.cc
