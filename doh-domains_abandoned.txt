@@ -11,6 +11,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -57,6 +58,7 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -256,6 +258,7 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
+externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
@@ -313,6 +316,7 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -346,6 +350,7 @@ us.rslvr.eu
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
+vpn.technicule.info
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
