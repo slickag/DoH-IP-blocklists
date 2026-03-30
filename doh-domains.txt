@@ -26,6 +26,7 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
 adg.rueiliu.space
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -62,7 +63,6 @@ adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 adult-filter-dns.cleanbrowsing.org
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -159,7 +159,6 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -270,6 +269,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -324,7 +324,6 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maolaohei.xyz
-dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
@@ -821,6 +820,7 @@ puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
@@ -934,6 +934,7 @@ v.dnscrypt.uk
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
+vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
