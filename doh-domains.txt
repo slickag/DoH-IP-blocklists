@@ -26,7 +26,6 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
 adg.rueiliu.space
-adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -159,6 +158,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -309,7 +309,6 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
-dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
@@ -324,13 +323,13 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maolaohei.xyz
+dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.molinero.dev
 dns.moog.sh
 dns.moonssif.com
@@ -352,6 +351,7 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
+dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
@@ -431,7 +431,6 @@ dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
 dns.wibenson.cloud
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -858,6 +857,7 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
+sdns22.gkonuralp.com
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru

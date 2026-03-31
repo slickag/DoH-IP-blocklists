@@ -61,7 +61,6 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -122,10 +121,11 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
+dns.kugoapps.com
 dns.lashes-brow.ru
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
+dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -139,7 +139,6 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
-dns.ovpn.bond
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
@@ -161,8 +160,8 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
-dns.wibenson.cloud
 dns.wugui.zone
+dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
@@ -319,11 +318,9 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
@@ -354,7 +351,6 @@ us.rslvr.eu
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
-vpn.technicule.info
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
