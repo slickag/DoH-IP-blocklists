@@ -26,12 +26,10 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
 adg.rueiliu.space
-adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
-adguard.avdkishore.dev
 adguard.bitteeinbyte.de
 adguard.bonis.de
 adguard.bonsirven.eu
@@ -65,6 +63,7 @@ adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
+ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -161,7 +160,6 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -326,7 +324,6 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maolaohei.xyz
-dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
@@ -434,6 +431,8 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
+dns.wibenson.cloud
+dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -859,7 +858,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
@@ -936,6 +934,7 @@ v.dnscrypt.uk
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
+vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com

@@ -11,11 +11,13 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
 adguard.ambiya.net
+adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
 adguard.dessoi.cloud
@@ -32,7 +34,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguardh.ga
 ads.hunga1k47.com
-ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -123,6 +124,7 @@ dns.keke125.com
 dns.kugoapps.com
 dns.lashes-brow.ru
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.mo0on15.com
@@ -158,9 +160,7 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
-dns.wibenson.cloud
 dns.wugui.zone
-dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
@@ -321,6 +321,7 @@ quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
+sdns22.gkonuralp.com
 secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
@@ -351,7 +352,6 @@ us.rslvr.eu
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
-vpn.technicule.info
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
