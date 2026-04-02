@@ -23,7 +23,6 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -102,10 +101,8 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
-dns.faze.dev
 dns.feldy.my.id
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -130,7 +127,6 @@ dns.lashes-brow.ru
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -167,7 +163,6 @@ dns.warma.me
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
-dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
@@ -215,6 +210,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -329,7 +325,6 @@ pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
