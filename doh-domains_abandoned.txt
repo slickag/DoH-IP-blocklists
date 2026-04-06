@@ -99,8 +99,10 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
+dns.haoxuan.xyz
 dns.henek.ovh
 dns.hugo0.moe
 dns.huyhoangit.net
