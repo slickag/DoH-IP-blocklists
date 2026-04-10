@@ -50,6 +50,7 @@ canadianshield.cira.ca
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -266,7 +267,6 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
 id.terra.my.id
-ikarosalpha.xyz
 inde.ragnvindr.org
 iris.woozeno.eu
 irre.li
@@ -275,7 +275,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
