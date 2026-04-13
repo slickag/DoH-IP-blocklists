@@ -31,7 +31,6 @@ adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
 adguard.quydang.name.vn
 adguard.sparshbajaj.me
-adguard.sscw.win
 adguardh.ga
 ag.hostme.co.il
 ag.ssrahul96.xyz
