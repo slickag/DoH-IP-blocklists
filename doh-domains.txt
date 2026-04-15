@@ -409,7 +409,6 @@ dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
-dns.thegoodsource.net
 dns.therifleman.name
 dns.tls-data.de
 dns.trust404.win
