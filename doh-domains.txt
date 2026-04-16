@@ -933,6 +933,7 @@ us1.dns.lavate.ch
 use-application-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
+v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua

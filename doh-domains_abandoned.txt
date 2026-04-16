@@ -346,7 +346,6 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 us.rslvr.eu
-v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
 www.elshad-adgh-dns.ru
