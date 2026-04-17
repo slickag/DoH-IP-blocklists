@@ -54,7 +54,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -111,7 +110,6 @@ dns.hypercute.eu
 dns.ian.rocks
 dns.indust.me
 dns.indybanipal.com
-dns.infosec.xyz
 dns.interhub.cc
 dns.invisv.com
 dns.ipv6dns.com
@@ -282,6 +280,7 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lelux.fi

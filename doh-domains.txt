@@ -143,6 +143,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -292,6 +293,7 @@ dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
+dns.infosec.xyz
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
@@ -710,7 +712,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
