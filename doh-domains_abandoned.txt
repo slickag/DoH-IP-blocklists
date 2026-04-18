@@ -54,7 +54,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -89,7 +88,6 @@ dns.cloudseriousshit.com
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
-dns.david888.com
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.best
