@@ -271,6 +271,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -691,7 +692,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
-jit.ddns.net
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
