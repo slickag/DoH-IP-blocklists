@@ -277,6 +277,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -333,6 +334,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tw2.ooroot.com
 uf-dns.lista.my.id
