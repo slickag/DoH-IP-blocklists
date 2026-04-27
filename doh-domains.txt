@@ -913,7 +913,6 @@ truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
-tx.teradns.org
 tyo01.dnscry.pt
 typaza.com
 ueni.dyndns.org
