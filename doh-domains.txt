@@ -354,6 +354,7 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
+dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
