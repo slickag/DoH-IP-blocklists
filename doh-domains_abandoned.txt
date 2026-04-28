@@ -99,9 +99,9 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
-dns.faze.dev
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -137,7 +137,6 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
-dns.ovpn.bond
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
@@ -307,7 +306,6 @@ ns2.dnsprivacy.at
 ns3.cx
 ns3.link
 nue2.moderateinfra.net
-ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
@@ -328,7 +326,6 @@ secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
-sg.teradns.org
 sin01.dnscry.pt
 snoke.meganerd.nl
 sriedmueadguard.casa
@@ -339,10 +336,8 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
-tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
-uk.teradns.org
 uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
