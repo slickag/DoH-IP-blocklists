@@ -145,6 +145,7 @@ dns.repinger.my.id
 dns.repressoh.it
 dns.rootlab.top
 dns.seiffert.me
+dns.shimul.me
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
