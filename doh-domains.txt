@@ -333,7 +333,6 @@ dns.mestdag.fr
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.molinero.dev
 dns.moog.sh
 dns.moonssif.com
