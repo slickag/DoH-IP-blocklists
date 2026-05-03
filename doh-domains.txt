@@ -325,7 +325,6 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maolaohei.xyz
-dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
