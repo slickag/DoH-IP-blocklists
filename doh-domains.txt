@@ -105,7 +105,6 @@ blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
 bom01.dnscry.pt
-br.servers.legat.ml
 bravedns.com
 c.cicitt.ch
 ca-yyc.doh.sb
