@@ -407,6 +407,7 @@ dns.tesem.dog
 dns.thebuckners.org
 dns.therifleman.name
 dns.tls-data.de
+dns.tracker.ink
 dns.trust404.win
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
@@ -650,7 +651,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
