@@ -145,7 +145,6 @@ dart.kpsn.org
 darya.persiannit.net
 de-dus.doh.sb
 de-fra.doh.sb
-de.teradns.org
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -764,7 +763,6 @@ ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
 nvi-dns.bitdefender.net
-ny.teradns.org
 nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
@@ -867,7 +865,6 @@ security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
 sg-sin.doh.sb
-sg.teradns.org
 sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
@@ -909,12 +906,10 @@ truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
-tx.teradns.org
 tyo01.dnscry.pt
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.teradns.org
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
