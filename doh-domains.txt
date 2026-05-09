@@ -426,7 +426,6 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
-dns.wibenson.cloud
 dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
@@ -927,7 +926,6 @@ v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
-vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
