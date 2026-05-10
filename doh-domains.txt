@@ -40,7 +40,6 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
-adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
@@ -61,7 +60,6 @@ adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 adult-filter-dns.cleanbrowsing.org
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -610,7 +608,6 @@ emby.rasp.tv
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
 extended.dns.mullvad.net
-externalmobiel.lekdijk.online
 family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
