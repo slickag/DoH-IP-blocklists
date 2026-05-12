@@ -204,7 +204,6 @@ dns.bobstrecansky.com
 dns.bofh.in
 dns.brahma.world
 dns.carson-family.com
-dns.ceai.com.tw
 dns.chadeyron.fr
 dns.charraud.eu
 dns.chenu.ch

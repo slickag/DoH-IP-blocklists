@@ -89,6 +89,7 @@ dns.benpro.fr
 dns.blaze-sk.ru
 dns.bw.i81.ru
 dns.carter.me
+dns.ceai.com.tw
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
