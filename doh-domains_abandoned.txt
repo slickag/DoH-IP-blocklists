@@ -125,6 +125,7 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
+dns.kugoapps.com
 dns.lashes-brow.ru
 dns.mandre.dev
 dns.mathewakhil.online
@@ -144,6 +145,7 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
+dns.ovpn.bond
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh

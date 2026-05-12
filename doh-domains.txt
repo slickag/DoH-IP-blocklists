@@ -305,7 +305,6 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
-dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
@@ -346,7 +345,6 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
-dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
