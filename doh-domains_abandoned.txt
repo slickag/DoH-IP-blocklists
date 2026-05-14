@@ -10,6 +10,7 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+addns1.m-it.ro
 adg.rokh.biz
 adg.yybyy.wiki
 adguard-dns.rouga.ch
@@ -34,6 +35,7 @@ adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
 adguard.quydang.name.vn
 adguard.sparshbajaj.me
+adguard.sscw.win
 adguardh.ga
 ads.hunga1k47.com
 ag.brianlee.fun
@@ -278,6 +280,7 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
