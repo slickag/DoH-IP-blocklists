@@ -106,6 +106,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
+dns.faze.dev
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
