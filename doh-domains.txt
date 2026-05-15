@@ -4,9 +4,6 @@
 3dns.eu
 5g.o0o.re
 8888.google
-a.family.ns.dnslify.com
-a.ns.dnslify.com
-a.safe.ns.dnslify.com
 abe01.dnscry.pt
 abel.waringer-atg.de
 ad.huyct.net
@@ -85,9 +82,6 @@ au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
 axaxa.fun
-b.family.ns.dnslify.com
-b.ns.dnslify.com
-b.safe.ns.dnslify.com
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -272,6 +266,7 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanahira.dev
 dns.hanmey.de
+dns.haoxuan.xyz
 dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net
@@ -506,7 +501,6 @@ doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dns4all.eu
 doh.dnscrypt.uk
-doh.dnslify.com
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
@@ -638,7 +632,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
