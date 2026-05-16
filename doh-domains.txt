@@ -232,7 +232,6 @@ dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
@@ -337,6 +336,7 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
+dns.oszx.co
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
