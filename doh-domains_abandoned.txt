@@ -345,6 +345,7 @@ resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 secure-dns.dns-ga.de
+secure.avastdns.com
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
