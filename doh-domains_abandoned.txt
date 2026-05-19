@@ -49,6 +49,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
+axaxa.fun
 b-ii.com
 b.family.ns.dnslify.com
 b.ns.dnslify.com
@@ -108,7 +109,6 @@ dns.dnsoverhttps.net
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -347,6 +347,7 @@ sby-doh.limotelu.org
 secure-dns.dns-ga.de
 secure.avastdns.com
 secure.onedns.cc
+securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
