@@ -632,7 +632,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -668,7 +667,6 @@ ipoac.nl
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
-jcdns.fun
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
@@ -695,7 +693,6 @@ lax02.dnscry.pt
 lelux.fi
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 llk01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
@@ -909,7 +906,6 @@ vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vpsus3.pzhg.me
-vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
