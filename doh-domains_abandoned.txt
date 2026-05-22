@@ -249,7 +249,6 @@ doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
-doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
