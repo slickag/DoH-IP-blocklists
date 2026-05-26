@@ -430,7 +430,6 @@ dns1.klcd.eu
 dns1.nextdns.io
 dns1.nordvpn.com
 dns1.ryan-palmer.com
-dns1.techeasy.org
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -480,7 +479,6 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
-doh.armadillodns.net
 doh.asia.dnswarden.com
 doh.azoris.ovh
 doh.beauty
@@ -637,7 +635,6 @@ gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
-himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -646,7 +643,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com

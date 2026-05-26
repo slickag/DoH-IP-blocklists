@@ -189,6 +189,7 @@ dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
+dns1.techeasy.org
 dns1.us.newpangea.de
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
@@ -207,6 +208,7 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.abmb.win
+doh.armadillodns.net
 doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
@@ -284,7 +286,9 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
+himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
