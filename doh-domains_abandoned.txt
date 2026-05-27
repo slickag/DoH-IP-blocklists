@@ -23,6 +23,7 @@ adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
@@ -163,6 +164,7 @@ dns.reckoningslug.name
 dns.repinger.my.id
 dns.repressoh.it
 dns.rootlab.top
+dns.scapetical.com
 dns.seiffert.me
 dns.shimul.me
 dns.siry.de

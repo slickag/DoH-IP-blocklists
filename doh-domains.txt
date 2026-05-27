@@ -31,7 +31,6 @@ adguard.bitteeinbyte.de
 adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.gbrossi.com.br
 adguard.haneulo.com
@@ -359,7 +358,6 @@ dns.rubyfish.cn
 dns.sarak.as
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
