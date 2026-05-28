@@ -165,8 +165,8 @@ dns.repinger.my.id
 dns.repressoh.it
 dns.rootlab.top
 dns.seiffert.me
+dns.shecan.ir
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -345,6 +345,7 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+pro.shecan.ir
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
