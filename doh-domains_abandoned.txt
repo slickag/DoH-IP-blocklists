@@ -117,6 +117,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -163,9 +164,9 @@ dns.reckoningslug.name
 dns.repinger.my.id
 dns.repressoh.it
 dns.rootlab.top
-dns.scapetical.com
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro

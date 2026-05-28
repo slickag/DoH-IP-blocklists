@@ -254,7 +254,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -359,6 +358,7 @@ dns.rubyfish.cn
 dns.sarak.as
 dns.sarilouis.com
 dns.sb
+dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
