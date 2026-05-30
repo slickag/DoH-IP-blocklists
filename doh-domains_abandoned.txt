@@ -289,6 +289,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -356,6 +357,7 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.teradns.org
+sg.yepdns.com
 sin01.dnscry.pt
 snoke.meganerd.nl
 sriedmueadguard.casa

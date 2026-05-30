@@ -648,7 +648,6 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
-hydra.plan9-ns1.com
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
@@ -841,7 +840,6 @@ security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
 sg-sin.doh.sb
-sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
@@ -922,7 +920,6 @@ www.unasw.eu
 wyx.cloud
 xenergy.cc
 xorbiadns.com
-yarp.lefolgoc.net
 ychen.cf
 ychen.gq
 your-dns.run
