@@ -117,7 +117,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
