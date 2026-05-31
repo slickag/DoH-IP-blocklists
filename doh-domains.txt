@@ -695,7 +695,6 @@ lon01.dnscry.pt
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
-mailkyb.co
 mainframe.dewed.de
 mask-api.icloud.com
 mask-h2.icloud.com
