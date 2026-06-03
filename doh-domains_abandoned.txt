@@ -106,7 +106,6 @@ dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
 dns.dnsoverhttps.net
-dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
