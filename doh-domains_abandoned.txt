@@ -136,7 +136,6 @@ dns.keke125.com
 dns.kugoapps.com
 dns.lashes-brow.ru
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -344,7 +343,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
