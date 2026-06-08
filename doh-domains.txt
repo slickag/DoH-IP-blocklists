@@ -883,6 +883,7 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tyo01.dnscry.pt
 typaza.com
 ueni.dyndns.org
