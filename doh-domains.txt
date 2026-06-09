@@ -632,7 +632,6 @@ geshido.vpn.geshido.ru
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-guard.sntrk.ru
 gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
@@ -866,7 +865,6 @@ syd.adfilter.net
 takhtakh.domyah.net
 testaghome.meshkov.info
 testguard.meexx.de
-thanos.pleumkungz.com
 tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl

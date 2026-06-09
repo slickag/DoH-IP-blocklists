@@ -284,6 +284,7 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
+guard.sntrk.ru
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
@@ -361,6 +362,7 @@ sriedmueadguard.casa
 surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
+thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
