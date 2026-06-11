@@ -4,6 +4,7 @@
 3dns.eu
 5g.o0o.re
 8888.google
+a-bld.sys-adm.in
 abe01.dnscry.pt
 abel.waringer-atg.de
 ad.huyct.net
@@ -86,6 +87,7 @@ basic.bravedns.com
 basic.rethinkdns.com
 bl.eq.md
 blackhole.myon.lu
+bld.sys-adm.in
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
