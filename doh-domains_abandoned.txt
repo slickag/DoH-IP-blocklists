@@ -1,4 +1,5 @@
 1.xhr0no.my
+a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.passcloud.xyz
@@ -55,6 +56,7 @@ b.ns.dnslify.com
 b.safe.ns.dnslify.com
 bcandrade.ml
 berd.moe
+bld.sys-adm.in
 blitz.ahadns.com
 br.servers.legat.ml
 buc-m2.illmods.com
