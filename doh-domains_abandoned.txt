@@ -109,7 +109,6 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
-dns.faze.dev
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -277,6 +276,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
+fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
 himedns.com
