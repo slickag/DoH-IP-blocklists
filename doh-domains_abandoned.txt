@@ -33,7 +33,6 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
-adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguardh.ga
