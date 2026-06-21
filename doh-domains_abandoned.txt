@@ -220,6 +220,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.iucc.ac.il
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
