@@ -157,7 +157,6 @@ dns.repinger.my.id
 dns.repressoh.it
 dns.rootlab.top
 dns.seiffert.me
-dns.shecan.ir
 dns.shimul.me
 dns.siry.de
 dns.stvsk.ml
@@ -279,7 +278,6 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
-free.shecan.ir
 groupy.ga
 guard.sntrk.ru
 himedns.com
@@ -341,7 +339,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
