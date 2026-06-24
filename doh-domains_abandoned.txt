@@ -45,7 +45,6 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
-axaxa.fun
 b-ii.com
 b.family.ns.dnslify.com
 b.ns.dnslify.com
@@ -144,6 +143,7 @@ dns.norvig.dk
 dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
+dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
 dns.post-factum.tk
@@ -169,7 +169,6 @@ dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
 dns.wugui.zone
-dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
@@ -302,7 +301,6 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -342,11 +340,9 @@ pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secure-dns.dns-ga.de
 secure.avastdns.com
 secure.onedns.cc
-securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
@@ -360,7 +356,6 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
