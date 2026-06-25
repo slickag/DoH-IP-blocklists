@@ -673,6 +673,7 @@ ipoac.nl
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
+jcdns.fun
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
@@ -912,6 +913,7 @@ vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vpsus3.pzhg.me
+vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
