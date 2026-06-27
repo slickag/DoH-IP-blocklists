@@ -129,6 +129,7 @@ dns.keke125.com
 dns.kugoapps.com
 dns.lashes-brow.ru
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -310,6 +311,7 @@ mailkyb.co
 minilla.store
 msr177.com
 n0.eu
+nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
