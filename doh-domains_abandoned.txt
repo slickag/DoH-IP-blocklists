@@ -109,7 +109,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -312,6 +311,7 @@ mailkyb.co
 minilla.store
 msr177.com
 n0.eu
+nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
