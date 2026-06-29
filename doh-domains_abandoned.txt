@@ -221,6 +221,7 @@ doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -311,7 +312,6 @@ mailkyb.co
 minilla.store
 msr177.com
 n0.eu
-nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu

@@ -317,6 +317,7 @@ dns.lista.my.id
 dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
+dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
@@ -517,7 +518,6 @@ doh.futa.gg
 doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
