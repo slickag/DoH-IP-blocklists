@@ -129,7 +129,6 @@ dns.keke125.com
 dns.kugoapps.com
 dns.lashes-brow.ru
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -280,6 +279,7 @@ groupy.ga
 guard.sntrk.ru
 himedns.com
 hk.rslvr.eu
+home.enjoymylife.net
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
