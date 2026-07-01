@@ -89,7 +89,6 @@ axaxa.fun
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
-bl.eq.md
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -650,6 +649,7 @@ hk2.ooroot.com
 hkg01.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
+home.enjoymylife.net
 home.wriedts.de
 home27.duckdns.org
 hostdare.qtxd.net
