@@ -314,6 +314,7 @@ n0.eu
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
+nl-ams2.doh.sb
 nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
@@ -336,6 +337,7 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+privacydns.go6lab.si
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -373,7 +375,6 @@ us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
-vpn.technicule.info
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org

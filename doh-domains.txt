@@ -725,7 +725,6 @@ nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
 nl-ams.doh.sb
-nl-ams2.doh.sb
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
@@ -786,7 +785,6 @@ pihole4.hoerli.net
 pluton.plan9-dns.com
 pooblet.co.za
 privacy.plumedns.com
-privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
 pro.shecan.ir
@@ -912,6 +910,7 @@ v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
+vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
