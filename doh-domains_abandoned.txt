@@ -65,6 +65,7 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+darya.persiannit.net
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
