@@ -377,7 +377,6 @@ dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
-dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
@@ -856,7 +855,6 @@ shalenkov.dev
 shield.afixer.app
 shield1.eranext.net
 sink.nolo.ltd
-sitdns.com
 sky.rethinkdns.com
 slc01.dnscry.pt
 sof01.dnscry.pt

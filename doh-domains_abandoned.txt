@@ -159,6 +159,7 @@ dns.rootlab.top
 dns.seiffert.me
 dns.shimul.me
 dns.siry.de
+dns.sitdns.com
 dns.stvsk.ml
 dns.swin.pro
 dns.thegoodsource.net
@@ -350,6 +351,7 @@ sg.rslvr.eu
 sg.teradns.org
 sg.yepdns.com
 sin01.dnscry.pt
+sitdns.com
 snoke.meganerd.nl
 sriedmueadguard.casa
 surt.ml
