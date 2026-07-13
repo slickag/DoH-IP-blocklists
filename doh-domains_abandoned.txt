@@ -131,7 +131,6 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.kugoapps.com
-dns.labnekotest.site
 dns.lashes-brow.ru
 dns.lightmaster.pw
 dns.mandre.dev
