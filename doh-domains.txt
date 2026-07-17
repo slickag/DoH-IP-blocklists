@@ -86,6 +86,7 @@ au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
 axaxa.fun
+b-ii.com
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -493,6 +494,7 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.cox.net
 doh.crypto.sx
 doh.datahata.by
@@ -512,6 +514,7 @@ doh.futa.gg
 doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.jeroenhd.nl
+doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
