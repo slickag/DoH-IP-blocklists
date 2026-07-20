@@ -68,6 +68,7 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -307,6 +308,7 @@ dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
+dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
@@ -491,7 +493,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.cox.net
 doh.crypto.sx
 doh.datahata.by
@@ -582,6 +583,7 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
+drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
