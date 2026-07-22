@@ -110,6 +110,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -189,7 +190,7 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
 dnses.alekberg.net
-dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
@@ -206,6 +207,7 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -280,6 +282,7 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fra1.eyecay.xyz
+gclouddns.com
 groupy.ga
 guard.sntrk.ru
 himedns.com
@@ -330,7 +333,6 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
@@ -352,7 +354,6 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.teradns.org
-sg.yepdns.com
 sin01.dnscry.pt
 sitdns.com
 snoke.meganerd.nl
@@ -361,6 +362,7 @@ surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
