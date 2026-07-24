@@ -69,7 +69,6 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -306,7 +305,6 @@ dns.kosan.moe
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
@@ -455,6 +453,7 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -462,6 +461,7 @@ dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -632,7 +632,6 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
-gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -657,7 +656,6 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 i.233py.com
-iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
 ihctw.synology.me
@@ -751,7 +749,6 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
@@ -761,7 +758,6 @@ odvr.nic.cz
 one.one.one.one
 opencdn.jomodns.com
 opennic.i2pd.xyz
-opennic.tenta.io
 opennic1.eth-services.de
 opennic2.i2pd.xyz
 opera.cloudflare-dns.com
