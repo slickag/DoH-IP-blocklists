@@ -18,9 +18,11 @@ adblock.indianets.net
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
+addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
+adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
@@ -68,6 +70,7 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -304,6 +307,7 @@ dns.kosan.moe
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
@@ -457,10 +461,10 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -747,7 +751,9 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -908,7 +914,6 @@ virga.pp.ua
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -924,6 +929,7 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
+xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
