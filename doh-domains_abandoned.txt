@@ -126,8 +126,8 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.kugoapps.com
-dns.labnekotest.site
 dns.lashes-brow.ru
+dns.lightmaster.pw
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -185,13 +185,11 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
-dnses.alekberg.net
-dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse.alekberg.net
+dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -202,6 +200,7 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -265,6 +264,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -275,6 +275,7 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fra1.eyecay.xyz
+gclouddns.com
 groupy.ga
 guard.sntrk.ru
 gustamadh.dynv6.net
@@ -327,8 +328,8 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
+odoh-target.alekberg.net
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
