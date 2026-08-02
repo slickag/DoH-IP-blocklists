@@ -21,6 +21,7 @@ adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
+adguard.dekonix.ru
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
@@ -38,6 +39,7 @@ adguardh.ga
 ads.hunga1k47.com
 ag.hostme.co.il
 aihe.app
+alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -94,7 +96,6 @@ dns.ceai.com.tw
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
-dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
@@ -128,7 +129,9 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.kugoapps.com
+dns.labnekotest.site
 dns.lashes-brow.ru
+dns.lightmaster.pw
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -187,12 +190,10 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
 dnses.alekberg.net
-dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
@@ -204,7 +205,6 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
-doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -268,6 +268,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -323,6 +324,7 @@ nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
+ns1.sc-lezhi.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
@@ -330,8 +332,8 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
