@@ -306,6 +306,7 @@ dns.kosan.moe
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
@@ -459,7 +460,7 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl.alekberg.net
+dnsnl-noads.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse-noads.alekberg.net
@@ -589,6 +590,7 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
+drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -750,7 +752,6 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
