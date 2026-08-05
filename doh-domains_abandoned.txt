@@ -95,8 +95,8 @@ dns.carter.me
 dns.ceai.com.tw
 dns.cfiec.net
 dns.chocolatezz.xyz
+dns.cloud88.com.au
 dns.cloudseriousshit.com
-dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
@@ -129,7 +129,6 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.kugoapps.com
-dns.labnekotest.site
 dns.lashes-brow.ru
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -188,13 +187,14 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
-dnsnl-noads.alekberg.net
+dnses.alekberg.net
 dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -269,7 +269,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -280,7 +279,6 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 guard.sntrk.ru
 himedns.com
@@ -333,7 +331,8 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target.alekberg.net
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
@@ -384,12 +383,12 @@ us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
