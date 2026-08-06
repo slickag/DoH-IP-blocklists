@@ -22,6 +22,7 @@ addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
+adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
@@ -51,7 +52,6 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
 adguard.twotigers.xyz
-adguard.wirimij.nl
 adguard.zachitect.com
 adguard1.jsanagustin.net
 adguard1.leadmon.net
@@ -236,7 +236,6 @@ dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
@@ -256,7 +255,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
@@ -456,6 +454,7 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -464,7 +463,6 @@ dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -499,7 +497,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.cox.net
 doh.crypto.sx
 doh.datahata.by
@@ -751,8 +748,6 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
