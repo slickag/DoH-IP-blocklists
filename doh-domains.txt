@@ -25,7 +25,6 @@ adg.jnorton.us
 adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
-adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
@@ -61,7 +60,6 @@ adult-filter-dns.cleanbrowsing.org
 ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
-ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.fltn.us
 agh.printk.info
@@ -426,7 +424,6 @@ dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -461,9 +458,11 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse.alekberg.net
+dnsse-noads.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -588,7 +587,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -749,9 +747,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -873,6 +869,7 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
