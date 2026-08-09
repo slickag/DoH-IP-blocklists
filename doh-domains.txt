@@ -22,7 +22,6 @@ addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -43,6 +42,7 @@ adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
+adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.piekacz.pl
 adguard.quydang.name.vn
@@ -255,7 +255,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
@@ -423,7 +422,6 @@ dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -459,6 +457,7 @@ dnsforfamily.com
 dnsforge.de
 dnslow.me
 dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse-noads.alekberg.net
@@ -632,6 +631,7 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -747,7 +747,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads.alekberg.net
+odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
@@ -870,6 +870,7 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
