@@ -34,6 +34,7 @@ adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
+adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
@@ -42,7 +43,6 @@ ads.hunga1k47.com
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -101,6 +101,7 @@ dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
+dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
@@ -135,6 +136,7 @@ dns.jucker.engineering
 dns.keke125.com
 dns.kugoapps.com
 dns.lashes-brow.ru
+dns.linkr.ninja
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -178,7 +180,6 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
-dns.zfsystem.tech
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -194,6 +195,7 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
 dnses.alekberg.net
+dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
@@ -209,6 +211,7 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -273,6 +276,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -285,7 +289,6 @@ fjr01.dnscry.pt
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
@@ -388,11 +391,13 @@ us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt

@@ -42,7 +42,6 @@ adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
-adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.piekacz.pl
 adguard.quydang.name.vn
@@ -211,7 +210,6 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cryptomize.com
@@ -307,7 +305,6 @@ dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
 dns.lightmaster.pw
-dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
 dns.lsho.top
@@ -456,7 +453,6 @@ dnsenc.com
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
@@ -496,7 +492,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.cox.net
 doh.crypto.sx
 doh.datahata.by
@@ -586,7 +581,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -747,7 +741,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads.alekberg.net
+odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -922,7 +916,6 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
-xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
