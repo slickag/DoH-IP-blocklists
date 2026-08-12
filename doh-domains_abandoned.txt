@@ -33,6 +33,7 @@ adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
+adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
@@ -99,6 +100,7 @@ dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
+dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
@@ -113,6 +115,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -269,7 +272,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -280,7 +282,6 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
@@ -333,7 +334,7 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads.alekberg.net
+odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
@@ -366,7 +367,6 @@ surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
@@ -391,6 +391,7 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
