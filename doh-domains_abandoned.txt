@@ -33,7 +33,6 @@ adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
-adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
@@ -305,6 +304,7 @@ korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
+lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 lux1.nixnet.xyz

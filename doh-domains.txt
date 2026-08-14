@@ -43,6 +43,7 @@ adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
+adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.piekacz.pl
 adguard.quydang.name.vn
@@ -697,7 +698,6 @@ lax02.dnscry.pt
 lelux.fi
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 llk01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
