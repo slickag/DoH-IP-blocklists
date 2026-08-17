@@ -38,7 +38,6 @@ adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
 adguardh.ga
-ads.hunga1k47.com
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -130,7 +129,6 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
-dns.kugoapps.com
 dns.lashes-brow.ru
 dns.linkr.ninja
 dns.mandre.dev
@@ -199,7 +197,6 @@ doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.abmb.win
-doh.armadillodns.net
 doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
@@ -280,7 +277,6 @@ fjr01.dnscry.pt
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
