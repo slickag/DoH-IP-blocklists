@@ -132,7 +132,6 @@ dns.keke125.com
 dns.lashes-brow.ru
 dns.linkr.ninja
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -303,7 +302,6 @@ korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 lux1.nixnet.xyz
