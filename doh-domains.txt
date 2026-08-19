@@ -146,6 +146,7 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
+dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
@@ -754,7 +755,6 @@ o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -913,7 +913,6 @@ virga.pp.ua
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
