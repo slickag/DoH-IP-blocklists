@@ -273,7 +273,6 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
@@ -306,6 +305,7 @@ lon-dns.bitdefender.net
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
+mainframe.dewed.de
 minilla.store
 msr177.com
 n0.eu
@@ -326,7 +326,6 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-se.alekberg.net
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
@@ -376,7 +375,6 @@ us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
-wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
