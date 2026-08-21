@@ -165,6 +165,7 @@ dns.swin.pro
 dns.thegoodsource.net
 dns.theres.one
 dns.truong.fi
+dns.vinokurov.tk
 dns.vishalk.com
 dns.wahr.top
 dns.wakgood.net
@@ -275,7 +276,6 @@ fjr01.dnscry.pt
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
