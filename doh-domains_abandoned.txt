@@ -129,6 +129,7 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
+dns.lightmaster.pw
 dns.linkr.ninja
 dns.mandre.dev
 dns.melalandia.tk
