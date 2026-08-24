@@ -76,6 +76,7 @@ dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
+dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0x55.net
 dns.233py.com.cdn.cloudflare.net
@@ -118,6 +119,7 @@ dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
 dns.hugo0.moe
+dns.huseynov.work
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
@@ -204,6 +206,7 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
