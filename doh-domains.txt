@@ -66,7 +66,6 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -302,7 +301,6 @@ dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
@@ -480,6 +478,7 @@ doh.233py.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
+doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.apad.pro
 doh.applied-privacy.net
@@ -584,7 +583,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -850,6 +848,7 @@ shalenkov.dev
 shield.afixer.app
 shield1.eranext.net
 sink.nolo.ltd
+sitdns.com
 sky.rethinkdns.com
 slc01.dnscry.pt
 sof01.dnscry.pt
