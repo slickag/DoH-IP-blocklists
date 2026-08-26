@@ -32,7 +32,6 @@ adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
 adguard.mattiafenzi.uk
-adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
 adguard.sparshbajaj.me
@@ -387,7 +386,6 @@ www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
-www.zburger.top
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt

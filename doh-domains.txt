@@ -42,6 +42,7 @@ adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
+adguard.mrmartian.co
 adguard.onlyfriends.info
 adguard.piekacz.pl
 adguard.quydang.name.vn
@@ -919,6 +920,7 @@ www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
 www.unasw.eu
+www.zburger.top
 wyx.cloud
 xenergy.cc
 xorbiadns.com
