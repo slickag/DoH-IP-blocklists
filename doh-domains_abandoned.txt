@@ -114,6 +114,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.futuredns.me
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -179,7 +180,6 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
-dns.zfsystem.tech
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -285,7 +285,6 @@ fjr01.dnscry.pt
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
