@@ -366,7 +366,6 @@ dns.scuola.org
 dns.sellan.fr
 dns.sev.monster
 dns.shecan.ir
-dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
@@ -418,6 +417,7 @@ dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
