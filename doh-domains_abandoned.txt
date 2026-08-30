@@ -114,7 +114,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.futuredns.me
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
