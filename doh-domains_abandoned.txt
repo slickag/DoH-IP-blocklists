@@ -32,6 +32,7 @@ adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
 adguard.mattiafenzi.uk
+adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
 adguard.sparshbajaj.me
@@ -340,7 +341,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
