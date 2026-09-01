@@ -84,6 +84,7 @@ dns.240527.xyz
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adrianlam.com
 dns.aerro.in
 dns.anonymous.pw
@@ -192,6 +193,7 @@ dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.techeasy.org
 dns1.us.newpangea.de
+dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
