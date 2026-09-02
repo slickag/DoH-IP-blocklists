@@ -84,7 +84,6 @@ dns.240527.xyz
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
-dns.aaytorr.com
 dns.adrianlam.com
 dns.aerro.in
 dns.anonymous.pw
@@ -182,7 +181,6 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
-dns.zfsystem.tech
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -193,15 +191,19 @@ dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.techeasy.org
 dns1.us.newpangea.de
-dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
+dnses.alekberg.net
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -287,6 +289,7 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fra1.eyecay.xyz
+gclouddns.com
 groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
@@ -339,6 +342,10 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
+odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
