@@ -220,7 +220,6 @@ dns.d365.in
 dns.d4d.moe
 dns.d94.xyz
 dns.daemon.za.net
-dns.david888.com
 dns.daw.dev
 dns.decloudus.com
 dns.dekedin.me
