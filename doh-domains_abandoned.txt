@@ -103,7 +103,6 @@ dns.cloudseriousshit.com
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
-dns.david888.com
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
