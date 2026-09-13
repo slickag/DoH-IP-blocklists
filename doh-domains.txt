@@ -677,7 +677,6 @@ jp-kix.doh.sb
 jp-nrt.doh.sb
 jp.tiar.app
 jp.tiarap.org
-jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
@@ -703,7 +702,6 @@ lon01.dnscry.pt
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
-mainframe.dewed.de
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
