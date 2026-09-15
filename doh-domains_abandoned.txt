@@ -211,6 +211,7 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.abmb.win
 doh.au.ahadns.net
+doh.azoris.ovh
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.datacore.ch
@@ -280,7 +281,6 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
