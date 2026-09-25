@@ -49,6 +49,7 @@ adguard.ruby.ci
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
+adguard.sparshbajaj.me
 adguard.twotigers.xyz
 adguard.zachitect.com
 adguard1.jsanagustin.net
