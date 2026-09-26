@@ -229,6 +229,7 @@ doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
+doh.jeroenhd.nl
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -368,6 +369,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org

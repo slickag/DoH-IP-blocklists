@@ -508,7 +508,6 @@ doh.funtopia.tv
 doh.futa.gg
 doh.ibr.cs.tu-bs.de
 doh.infracell.net
-doh.jeroenhd.nl
 doh.kekew.info
 doh.killtw.im
 doh.kooman.org
@@ -868,7 +867,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
