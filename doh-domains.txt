@@ -49,7 +49,6 @@ adguard.ruby.ci
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
-adguard.sparshbajaj.me
 adguard.twotigers.xyz
 adguard.zachitect.com
 adguard1.jsanagustin.net
@@ -228,7 +227,6 @@ dns.dgea.fr
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
-dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win

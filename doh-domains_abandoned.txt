@@ -35,6 +35,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
+adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
 adguardh.ga
@@ -106,6 +107,7 @@ dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
 dns.dnsoverhttps.net
+dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
