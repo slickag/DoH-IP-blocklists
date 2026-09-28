@@ -22,6 +22,7 @@ addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
+adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -60,6 +61,7 @@ adult-filter-dns.cleanbrowsing.org
 ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
+ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.fltn.us
 agh.printk.info
@@ -484,6 +486,7 @@ doh.captnemo.in
 doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.cox.net
 doh.crypto.sx
 doh.datahata.by
@@ -865,7 +868,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
