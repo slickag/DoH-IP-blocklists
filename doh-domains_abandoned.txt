@@ -40,7 +40,6 @@ adguard.wirimij.nl
 adguardh.ga
 ag.hostme.co.il
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -116,7 +115,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.futuredns.me
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -135,7 +133,6 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
-dns.labnekotest.site
 dns.lashes-brow.ru
 dns.lightmaster.pw
 dns.linkr.ninja
@@ -397,5 +394,7 @@ xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
+ychen.cf
 ychen.ga
+ychen.gq
 zero.dns0.eu
