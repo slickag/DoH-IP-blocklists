@@ -146,7 +146,6 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
-dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
@@ -521,6 +520,7 @@ doh.libredns.gr
 doh.luigi.nexific.it
 doh.lv
 doh.maskab.com
+doh.max.net.id
 doh.mmmalia.com
 doh.mullvad.net
 doh.nic.lv
@@ -869,6 +869,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
