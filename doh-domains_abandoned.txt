@@ -115,6 +115,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.futuredns.me
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.henek.ovh
@@ -228,6 +229,7 @@ doh.it.ahadns.net
 doh.iucc.ac.il
 doh.kutu.my.id
 doh.linuxsec.org
+doh.max.net.id
 doh.micronets.in
 doh.morizt.id
 doh.nala.ru
@@ -279,6 +281,7 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
+gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
