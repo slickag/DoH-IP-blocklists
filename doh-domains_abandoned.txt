@@ -244,6 +244,7 @@ doh.phdns5.lonet.org
 doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
+doh.powerdns.org
 doh.qis.io
 doh.southam.family
 doh.this.web.id
@@ -282,6 +283,7 @@ gclouddns.com
 groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
+hk2.ooroot.com
 home.enjoymylife.net
 hostdare.qtxd.net
 hydroxlab.ru.com

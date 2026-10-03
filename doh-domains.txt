@@ -643,7 +643,6 @@ helios.plan9-dns.com
 himedns.com
 hitian.me
 hk-hkg.doh.sb
-hk2.ooroot.com
 hkg01.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
