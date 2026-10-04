@@ -108,6 +108,7 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -244,7 +245,6 @@ doh.phdns5.lonet.org
 doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
-doh.powerdns.org
 doh.qis.io
 doh.southam.family
 doh.this.web.id
