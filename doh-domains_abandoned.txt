@@ -118,7 +118,6 @@ dns.frank-ruan.com
 dns.futuredns.me
 dns.glorydns.com
 dns.hafidzradhival.my.id
-dns.hakutakucn.com
 dns.henek.ovh
 dns.hugo0.moe
 dns.huseynov.work
@@ -176,7 +175,6 @@ dns.theres.one
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
