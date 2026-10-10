@@ -280,6 +280,7 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
+gustamadh.dynv6.net
 hk.rslvr.eu
 hk2.ooroot.com
 home.enjoymylife.net
@@ -352,6 +353,7 @@ rdu01.dnscry.pt
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
+sdns22.gkonuralp.com
 secure-dns.dns-ga.de
 secure.avastdns.com
 secure.onedns.cc
