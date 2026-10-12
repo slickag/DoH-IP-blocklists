@@ -62,6 +62,7 @@ cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 console.carestyle.org
@@ -247,6 +248,7 @@ doh.qis.io
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win

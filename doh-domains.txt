@@ -108,7 +108,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
-cleanbrowsing.org
 cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
@@ -558,7 +557,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.b-cdn.net
