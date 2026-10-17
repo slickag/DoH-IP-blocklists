@@ -176,6 +176,7 @@ dns.theres.one
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -284,6 +285,7 @@ eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
