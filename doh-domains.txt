@@ -41,7 +41,6 @@ adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
-adguard.marto.si
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -231,6 +230,7 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
