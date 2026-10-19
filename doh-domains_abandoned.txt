@@ -116,6 +116,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
+dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
 dns.hafidzradhival.my.id
@@ -174,9 +175,11 @@ dns.stvsk.ml
 dns.swin.pro
 dns.thegoodsource.net
 dns.theres.one
+dns.tracker.ink
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone

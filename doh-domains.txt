@@ -389,7 +389,6 @@ dns.tesem.dog
 dns.thebuckners.org
 dns.therifleman.name
 dns.tls-data.de
-dns.tracker.ink
 dns.trust404.win
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
@@ -404,7 +403,6 @@ dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
 dns.vmath.my.id
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -595,6 +593,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
