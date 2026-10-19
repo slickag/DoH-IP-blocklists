@@ -339,7 +339,6 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
@@ -585,7 +584,6 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 emby.rasp.tv
@@ -597,7 +595,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -664,7 +661,6 @@ jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
 jp.tiar.app
-jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
