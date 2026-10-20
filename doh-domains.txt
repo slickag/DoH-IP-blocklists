@@ -339,6 +339,7 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
@@ -389,6 +390,7 @@ dns.tesem.dog
 dns.thebuckners.org
 dns.therifleman.name
 dns.tls-data.de
+dns.tracker.ink
 dns.trust404.win
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
@@ -582,6 +584,7 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 emby.rasp.tv
