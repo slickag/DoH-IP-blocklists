@@ -52,6 +52,7 @@ b.safe.ns.dnslify.com
 bcandrade.ml
 berd.moe
 bl.eq.md
+blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 blockerads.multimediaconcept.fr
@@ -279,11 +280,13 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
+edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
@@ -309,6 +312,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jp.tiar.app
 jp.tiarap.org
 jp1.f7b6h9.tk
 kaitain.restena.lu
