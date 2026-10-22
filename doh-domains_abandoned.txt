@@ -52,7 +52,6 @@ b.safe.ns.dnslify.com
 bcandrade.ml
 berd.moe
 bl.eq.md
-blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 blockerads.multimediaconcept.fr
@@ -156,6 +155,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
@@ -280,13 +280,11 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 family.5ososea.com
-family.dns.doubleangels.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
@@ -296,6 +294,7 @@ groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hydroxlab.ru.com
