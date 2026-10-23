@@ -110,7 +110,6 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
@@ -157,6 +156,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
@@ -178,7 +178,6 @@ dns.theres.one
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -255,6 +254,7 @@ doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
+doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
@@ -297,7 +297,6 @@ groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hydroxlab.ru.com
