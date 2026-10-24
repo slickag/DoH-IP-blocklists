@@ -338,6 +338,7 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
@@ -551,6 +552,7 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
+doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -587,13 +589,13 @@ edns.233py.com
 ee-tll.doh.sb
 emby.rasp.tv
 esel.stusta.mhn.de
-eu1.dns.lavate.ch
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
