@@ -26,6 +26,7 @@ adguard.dekonix.ru
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
+adguard.jfchenier.ca
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -110,6 +111,7 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
@@ -156,7 +158,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
