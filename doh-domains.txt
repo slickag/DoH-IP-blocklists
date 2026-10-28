@@ -614,7 +614,6 @@ frog.dns.qwer.pw
 fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
-gateway.fomichev.cloud
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -628,6 +627,7 @@ himedns.com
 hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
