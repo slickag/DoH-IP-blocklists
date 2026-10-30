@@ -118,6 +118,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
+dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
 dns.hafidzradhival.my.id
@@ -157,7 +158,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
@@ -176,6 +176,7 @@ dns.stvsk.ml
 dns.swin.pro
 dns.thegoodsource.net
 dns.theres.one
+dns.tracker.ink
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
@@ -282,7 +283,6 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 eu1.dns.lavate.ch
