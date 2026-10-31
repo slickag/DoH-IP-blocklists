@@ -111,6 +111,7 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
@@ -118,7 +119,6 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
-dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
 dns.hafidzradhival.my.id
@@ -176,10 +176,10 @@ dns.stvsk.ml
 dns.swin.pro
 dns.thegoodsource.net
 dns.theres.one
-dns.tracker.ink
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -299,6 +299,7 @@ groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hydroxlab.ru.com
