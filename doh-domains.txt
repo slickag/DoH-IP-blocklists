@@ -229,7 +229,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
@@ -584,7 +583,6 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 emby.rasp.tv
@@ -878,7 +876,6 @@ use-application-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
 v2.xx3210766.live
-vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vpn.technicule.info
