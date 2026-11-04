@@ -179,6 +179,7 @@ dns.theres.one
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -281,7 +282,6 @@ dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
 drs.rustsword.com
-easyhandshake.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -299,6 +299,7 @@ groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hydroxlab.ru.com
