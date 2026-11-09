@@ -69,6 +69,7 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -156,6 +157,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
@@ -298,6 +300,7 @@ groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hydroxlab.ru.com
