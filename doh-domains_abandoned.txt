@@ -177,6 +177,7 @@ dns.theres.one
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
+dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wevpn.com
@@ -281,7 +282,6 @@ dot.pl.ahadns.net
 dot.westus.pi-dns.com
 drs.rustsword.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 eu1.dns.lavate.ch
