@@ -135,7 +135,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
-dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
 dns.lightmaster.pw
@@ -290,7 +289,6 @@ eu1.dns.lavate.ch
 everovpn.co
 example.doh.blockerdns.com
 family.5ososea.com
-family.dns.doubleangels.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
