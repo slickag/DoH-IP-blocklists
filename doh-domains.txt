@@ -39,7 +39,6 @@ adguard.ihatemy.live
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -338,7 +337,6 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
@@ -593,7 +591,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -629,7 +626,6 @@ himedns.com
 hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -740,6 +736,7 @@ orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
+osefcorp.duckdns.org
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
