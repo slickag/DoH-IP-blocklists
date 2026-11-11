@@ -56,6 +56,7 @@ berd.moe
 bl.eq.md
 bld.sys-adm.in
 blitz.ahadns.com
+block.abstergo.it
 blockerads.multimediaconcept.fr
 bom01.dnscry.pt
 br.servers.legat.ml

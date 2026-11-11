@@ -89,7 +89,6 @@ basic.bravedns.com
 basic.rethinkdns.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
-block.abstergo.it
 blocker.thethorsens.org
 blog.kimiblock.top
 bluemood.me
