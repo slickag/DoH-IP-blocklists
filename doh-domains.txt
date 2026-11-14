@@ -39,6 +39,7 @@ adguard.ihatemy.live
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -122,7 +123,6 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -403,6 +403,7 @@ dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
 dns.vmath.my.id
+dns.wahr.top
 dns.wargan.io
 dns.warma.me
 dns.warpnine.de

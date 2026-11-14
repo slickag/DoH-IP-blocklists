@@ -31,7 +31,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -70,6 +69,7 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -178,7 +178,6 @@ dns.theres.one
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
-dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wevpn.com
@@ -298,7 +297,6 @@ gateway.fomichev.cloud
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 hk2.ooroot.com
 home.enjoymylife.net
