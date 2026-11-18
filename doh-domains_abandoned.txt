@@ -30,7 +30,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -69,7 +68,6 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -112,6 +110,7 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
@@ -121,6 +120,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
+dns.hakutakucn.com
 dns.henek.ovh
 dns.hugo0.moe
 dns.huseynov.work
@@ -297,7 +297,6 @@ groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hydroxlab.ru.com
