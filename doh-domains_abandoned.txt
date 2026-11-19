@@ -110,7 +110,6 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
@@ -185,6 +184,7 @@ dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
 dns.zfsystem.tech
+dns0.eu
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -319,6 +319,7 @@ jp1.f7b6h9.tk
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
+kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -354,6 +355,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
@@ -415,3 +417,4 @@ ycg01.dnscry.pt
 ychen.cf
 ychen.ga
 ychen.gq
+zero.dns0.eu
