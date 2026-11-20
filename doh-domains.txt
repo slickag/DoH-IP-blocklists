@@ -40,7 +40,6 @@ adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -124,7 +123,6 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -583,7 +581,6 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 emby.rasp.tv
