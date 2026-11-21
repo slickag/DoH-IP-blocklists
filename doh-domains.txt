@@ -40,7 +40,6 @@ adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -124,7 +123,6 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -486,6 +484,7 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
+doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
 doh.cox.net
@@ -498,6 +497,9 @@ doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dns4all.eu
 doh.dnscrypt.uk
+doh.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
@@ -523,10 +525,12 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
+doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
 doh.phdns2.lonet.org
+doh.pi-dns.com
 doh.powerdns.org
 doh.pub
 doh.pyry.me
@@ -547,6 +551,7 @@ doh.umbrella.com
 doh.us.dnswarden.com
 doh.valscosmos.com
 doh.viatech.com.tw
+doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -560,16 +565,22 @@ dohtrial.att.net
 dot-de.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
+dot.centraleu.pi-dns.com
 dot.cox.net
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
+dot.northeu.pi-dns.com
 dot.pub
 dot.quickline.ch
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
