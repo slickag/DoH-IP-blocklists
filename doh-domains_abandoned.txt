@@ -30,7 +30,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -66,6 +65,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 clearweb.woodbridge.club
 clientdns3.softcom.net
+cloud.198.games
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -112,7 +112,6 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
