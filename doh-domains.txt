@@ -123,6 +123,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -721,7 +722,6 @@ ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
-ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns2.flodns.net
 ns2.opennameserver.org
