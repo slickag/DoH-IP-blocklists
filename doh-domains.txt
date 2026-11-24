@@ -123,6 +123,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -337,7 +338,6 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
@@ -379,6 +379,7 @@ dns.strassmair.org
 dns.superstefan.win
 dns.surfshark.com
 dns.svoi.dev
+dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
