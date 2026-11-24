@@ -123,7 +123,6 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -629,7 +628,6 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 geg01.dnscry.pt
-geshido.vpn.geshido.ru
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
