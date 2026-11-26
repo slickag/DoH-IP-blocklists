@@ -40,7 +40,6 @@ adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
