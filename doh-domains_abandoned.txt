@@ -30,6 +30,7 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
+adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -69,6 +70,7 @@ cloud.198.games
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -284,7 +286,6 @@ gclouddns.com
 geshido.vpn.geshido.ru
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 hk2.ooroot.com
 home.enjoymylife.net
@@ -350,7 +351,6 @@ open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
